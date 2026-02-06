@@ -467,6 +467,8 @@ class ParserJSONNormas:
             return 'subtitulo'
         if '!cap' in urn_lower or 'capítulo' in nome_lower:
             return 'capitulo'
+        if 'subseção' in nome_lower or 'subsecao' in nome_lower:
+            return 'subsecao'
         if '!sec' in urn_lower or 'seção' in nome_lower:
             return 'secao'
 
@@ -611,6 +613,10 @@ class ParserHTMLNormas:
         r'^SE[ÇC][ÃA]O\s+(?:[IVXLCDM0-9]+(?:-[A-Z0-9]+)?|ÚNICA|ÃšNICA)',
         re.IGNORECASE
     )
+    RE_SUBSECAO = re.compile(
+        r'^SUBSE[ÇC][ÃA]O\s+(?:[IVXLCDM0-9]+(?:-[A-Z0-9]+)?|ÚNICA|ÃšNICA)',
+        re.IGNORECASE
+    )
 
     def __init__(self, html: str):
         # Corrige possível double-encoding UTF-8
@@ -623,6 +629,7 @@ class ParserHTMLNormas:
             'titulos': [],
             'capitulos': [],
             'secoes': [],
+            'subsecoes': [],
         }
         self.contexto_atual = []
         self.epigrafe_pendente = ""  # Epígrafe aguardando artigo
@@ -782,7 +789,8 @@ class ParserHTMLNormas:
             'livro': '',
             'titulo': '',
             'capitulo': '',
-            'secao': ''
+            'secao': '',
+            'subsecao': ''
         }
 
         # Pré-scan: verifica se existe menção a "Parte Geral" ou "Parte Especial" no HTML
@@ -807,7 +815,7 @@ class ParserHTMLNormas:
                     parte_geral_adicionada = True
 
                 # Guarda estrutura pendente para combinar com nome da próxima linha
-                if subtipo in ('titulo', 'capitulo', 'secao'):
+                if subtipo in ('titulo', 'capitulo', 'secao', 'subsecao'):
                     estrutura_pendente = info
                 else:
                     self._adicionar_estrutura(info)
@@ -817,6 +825,7 @@ class ParserHTMLNormas:
                         path_atual['titulo'] = ''
                         path_atual['capitulo'] = ''
                         path_atual['secao'] = ''
+                        path_atual['subsecao'] = ''
                     elif subtipo == 'livro':
                         path_atual['livro'] = info['texto']
 
@@ -841,11 +850,16 @@ class ParserHTMLNormas:
                     path_atual['titulo'] = estrutura_pendente['texto']
                     path_atual['capitulo'] = ''
                     path_atual['secao'] = ''
+                    path_atual['subsecao'] = ''
                 elif subtipo == 'capitulo':
                     path_atual['capitulo'] = estrutura_pendente['texto']
                     path_atual['secao'] = ''
+                    path_atual['subsecao'] = ''
                 elif subtipo == 'secao':
                     path_atual['secao'] = estrutura_pendente['texto']
+                    path_atual['subsecao'] = ''
+                elif subtipo == 'subsecao':
+                    path_atual['subsecao'] = estrutura_pendente['texto']
 
                 consumiu_epigrafe = info['tipo'] == 'epigrafe'
                 estrutura_pendente = None
@@ -1056,6 +1070,8 @@ class ParserHTMLNormas:
             return {'tipo': 'estrutura', 'subtipo': 'capitulo', 'texto': texto_completo}
         if self.RE_SECAO.match(texto_upper):
             return {'tipo': 'estrutura', 'subtipo': 'secao', 'texto': texto_completo}
+        if self.RE_SUBSECAO.match(texto_upper):
+            return {'tipo': 'estrutura', 'subtipo': 'subsecao', 'texto': texto_completo}
 
         # Tags h3/h4 são geralmente epígrafes (ex: "Anterioridade da lei")
         if p.name in ('h3', 'h4'):
@@ -1200,6 +1216,8 @@ class ParserHTMLNormas:
             self.estrutura['capitulos'].append(texto)
         elif subtipo == 'secao':
             self.estrutura['secoes'].append(texto)
+        elif subtipo == 'subsecao':
+            self.estrutura['subsecoes'].append(texto)
 
     def _is_revogado(self, texto: str) -> bool:
         """Verifica se o texto indica revogação"""
@@ -1755,10 +1773,11 @@ class ParserTextoNormas:
     RE_ARTIGO = re.compile(r'^art\.?\s*(\d+(?:\.\d+)*[º°]?(?:-[A-Za-z]+)?)', re.IGNORECASE)
     RE_PARAGRAFO = re.compile(r'^§\s*(\d+[º°]?(?:-[A-Za-z])?)', re.IGNORECASE)
     RE_PARAGRAFO_UNICO = re.compile(r'^parágrafo\s+único', re.IGNORECASE)
-    RE_INCISO = re.compile(r'^([IVXLCDM]+)\s*[-–—\.]', re.IGNORECASE)
+    RE_INCISO = re.compile(r'^([IVXLCDM]+)(?:\s*[-–—\.\u0096]\s*|\s+)', re.IGNORECASE)
     RE_ALINEA = re.compile(r'^([a-z])\)', re.IGNORECASE)
     RE_ITEM = re.compile(r'^(\d+)\s*[-–—\.]')
     RE_PENA = re.compile(r'^pena\s*[-–—]', re.IGNORECASE)
+    MAX_TENTATIVAS_DESCRICAO_ESTRUTURA = 5
 
     RE_PARTE = re.compile(
         r'^PARTE\s+(?:[A-Z0-9]+|GERAL|ESPECIAL|ÚNICA|ÃšNICA)',
@@ -1814,6 +1833,7 @@ class ParserTextoNormas:
         'ORGANIZA��O': 'ORGANIZAÇÃO',
         'P�BLICA': 'PÚBLICA',
         'FUN��O': 'FUNÇÃO',
+        '': '–',
     }
     NIVEL_ORDEM = ['parte', 'livro', 'titulo', 'subtitulo', 'capitulo', 'secao', 'subsecao']
     FILHOS_MAP = {
@@ -2050,7 +2070,9 @@ class ParserTextoNormas:
             texto_solto = self._limpar_espacos(bloco_bruto)
             if texto_solto:
                 self.estrutura['textos_soltos'].append(texto_solto)
-            epigrafe_pendente = texto_solto
+            # Não promover texto solto a epígrafe: epígrafe só deve vir de
+            # blocos classificados explicitamente por _eh_epigrafe.
+            epigrafe_pendente = ""
             artigo_atual = None
             ultimo_paragrafo = None
             ultimo_inciso = None
@@ -2176,6 +2198,7 @@ class ParserTextoNormas:
     def _normalizar(self, bloco: str) -> str:
         texto = re.sub(r'\s+', ' ', bloco).strip()
         texto = texto.replace('Âº', 'º').replace('Â°', '°')
+        texto = texto.replace('\x96', '–')
         texto = re.sub(
             r'(Art\.?\s*\d+(?:\.\d+)*)\s*(?:º|°)',
             r'\1º',
@@ -2353,6 +2376,21 @@ class ParserTextoNormas:
         if matches[0].start() != 0:
             return [texto_corrigido]
 
+        texto_upper = self._corrigir_rotulo_upper(texto_corrigido.upper()).replace('\xa0', ' ')
+        matches_filtrados = []
+        for match in matches:
+            if match.start() > 0:
+                antes = texto_upper[:match.start()].rstrip()
+                rotulo = match.group(0).upper()
+                if rotulo.startswith(('TÍTULO', 'TITULO', 'SUBTÍTULO', 'SUBTITULO')):
+                    if re.search(r'(?:^|\s)(DO|DA|DOS|DAS)\s*$', antes):
+                        continue
+            matches_filtrados.append(match)
+
+        matches = matches_filtrados
+        if not matches:
+            return [texto_corrigido]
+
         segmentos = []
         for idx, match in enumerate(matches):
             start_idx = match.start()
@@ -2364,6 +2402,9 @@ class ParserTextoNormas:
         return segmentos or [texto_corrigido]
 
     def _processar_rotulo_segmento(self, bloco_original: str, bloco_norm: str) -> bool:
+        if self.RE_INCISO.match(bloco_norm):
+            return False
+
         upper = self._corrigir_rotulo_upper(bloco_norm.upper())
 
         if self.RE_PARTE.match(upper):
@@ -2409,7 +2450,8 @@ class ParserTextoNormas:
                 'indice': len(self.estrutura['titulos']) - 1,
                 'path_key': 'titulo',
                 'tipo': 'titulo',
-                'node': node
+                'node': node,
+                'tentativas_descricao': 0
             }
             self.nota_estrutura_pendente = None
             return True
@@ -2427,7 +2469,8 @@ class ParserTextoNormas:
                 'indice': len(self.estrutura['subtitulos']) - 1,
                 'path_key': 'subtitulo',
                 'tipo': 'subtitulo',
-                'node': node
+                'node': node,
+                'tentativas_descricao': 0
             }
             self.nota_estrutura_pendente = None
             return True
@@ -2444,7 +2487,8 @@ class ParserTextoNormas:
                 'indice': len(self.estrutura['capitulos']) - 1,
                 'path_key': 'capitulo',
                 'tipo': 'capitulo',
-                'node': node
+                'node': node,
+                'tentativas_descricao': 0
             }
             self.nota_estrutura_pendente = None
             return True
@@ -2460,7 +2504,8 @@ class ParserTextoNormas:
                 'indice': len(self.estrutura['secoes']) - 1,
                 'path_key': 'secao',
                 'tipo': 'secao',
-                'node': node
+                'node': node,
+                'tentativas_descricao': 0
             }
             self.nota_estrutura_pendente = None
             return True
@@ -2475,7 +2520,8 @@ class ParserTextoNormas:
                 'indice': len(self.estrutura['subsecoes']) - 1,
                 'path_key': 'subsecao',
                 'tipo': 'subsecao',
-                'node': node
+                'node': node,
+                'tentativas_descricao': 0
             }
             self.nota_estrutura_pendente = None
             return True
@@ -2505,6 +2551,9 @@ class ParserTextoNormas:
         if bloco_norm.lower().startswith(('art', '§', 'Â§', 'parágrafo', 'parÃ¡grafo', 'pena ')):
             return False
 
+        if self.RE_INCISO.match(bloco_norm):
+            return False
+
         upper = self._corrigir_rotulo_upper(bloco_norm.upper())
         if upper.startswith(('PARTE ', 'LIVRO ', 'TÍTULO ', 'TITULO ', 'SUBTÍTULO ', 'SUBTITULO ', 'CAPÍTULO ', 'CAPITULO ', 'SEÇÃO ', 'SECAO ', 'SUBSEÇÃO ', 'SUBSECAO ')):
             return False
@@ -2532,36 +2581,54 @@ class ParserTextoNormas:
         if not bloco_norm:
             return False
 
-        if centralizado:
-            upper_central = self._corrigir_rotulo_upper(bloco_norm.upper())
-            if upper_central.startswith(('PARTE ', 'LIVRO ', 'TÃƒÂTULO ', 'TITULO ', 'SUBTÃƒÂTULO ', 'SUBTITULO ', 'CAPÃƒÂTULO ', 'CAPITULO ', 'SEÃƒâ€¡ÃƒÆ’O ', 'SECAO ', 'SUBSEÃƒâ€¡ÃƒÆ’O ', 'SUBSECAO ')):
-                self.estrutura_pendente = None
-                self.nota_estrutura_pendente = None
-                return False
-            if self._bloco_parece_nota(bloco_norm):
-                self._registrar_nota_estrutura(bloco_original)
-                return True
-            texto_limpo = self._limpar_espacos(bloco_norm)
-            if not (texto_limpo.startswith('(') and texto_limpo.endswith(')')):
-                self.estrutura_pendente = None
-                self.nota_estrutura_pendente = None
-                return False
-            self._atribuir_descricao_estrutura(bloco_original)
-            return True
         upper = self._corrigir_rotulo_upper(bloco_norm.upper())
         if upper.startswith(('PARTE ', 'LIVRO ', 'TÍTULO ', 'TITULO ', 'SUBTÍTULO ', 'SUBTITULO ', 'CAPÍTULO ', 'CAPITULO ', 'SEÇÃO ', 'SECAO ', 'SUBSEÇÃO ', 'SUBSECAO ')):
             # Nova estrutura apareceu antes da descrição
+            if self._pendente_termina_com_conector():
+                self._atribuir_descricao_estrutura(bloco_original)
+                return True
             self.estrutura_pendente = None
             self.nota_estrutura_pendente = None
             return False
 
-        if not self._eh_epigrafe(idx, bloco_norm):
-            # Não parece ser a descrição do elemento estrutural
+        if self._bloco_parece_nota(bloco_norm):
+            self._registrar_nota_estrutura(bloco_original)
+            return True
+
+        if self._eh_descricao_estrutura(idx, bloco_norm):
+            self._atribuir_descricao_estrutura(bloco_original)
+            return True
+
+        pendente['tentativas_descricao'] = pendente.get('tentativas_descricao', 0) + 1
+        if pendente['tentativas_descricao'] >= self.MAX_TENTATIVAS_DESCRICAO_ESTRUTURA:
             self.estrutura_pendente = None
             self.nota_estrutura_pendente = None
+        return False
+
+    def _eh_descricao_estrutura(self, idx: int, bloco_norm: str) -> bool:
+        if not bloco_norm.strip():
             return False
 
-        self._atribuir_descricao_estrutura(bloco_original)
+        if self._bloco_parece_nota(bloco_norm):
+            return False
+
+        lower = bloco_norm.lower()
+        if lower.startswith(('art', '§', 'Â§', 'parágrafo', 'parÃ¡grafo', 'pena ')):
+            return False
+
+        upper = self._corrigir_rotulo_upper(bloco_norm.upper())
+        if upper.startswith(('PARTE ', 'LIVRO ', 'TÍTULO ', 'TITULO ', 'SUBTÍTULO ', 'SUBTITULO ', 'CAPÍTULO ', 'CAPITULO ', 'SEÇÃO ', 'SECAO ', 'SUBSEÇÃO ', 'SUBSECAO ')):
+            return False
+
+        if self.RE_PARAGRAFO_UNICO.match(bloco_norm):
+            return False
+
+        if any(regex.match(bloco_norm) for regex in (self.RE_ARTIGO, self.RE_PARAGRAFO, self.RE_INCISO, self.RE_ALINEA, self.RE_ITEM, self.RE_PENA)):
+            return False
+
+        if self._eh_epigrafe(idx, bloco_norm):
+            return False
+
         return True
 
     def _atribuir_descricao_estrutura(self, bloco_original: str) -> None:
@@ -2576,7 +2643,9 @@ class ParserTextoNormas:
             descricao = f"{self.nota_estrutura_pendente} {descricao}"
             self.nota_estrutura_pendente = None
         atual = self.estrutura[lista][indice]
-        if ' - ' in atual:
+        if re.search(r'(?:^|\s)(DO|DA|DOS|DAS)\s*$', self._corrigir_rotulo_upper(atual.upper()).replace('\xa0', ' ')):
+            novo_texto = f"{atual} {descricao}"
+        elif ' - ' in atual:
             novo_texto = f"{atual} {descricao}"
         else:
             novo_texto = f"{atual} - {descricao}"
@@ -2588,6 +2657,20 @@ class ParserTextoNormas:
             node['titulo'] = novo_texto
         self.estrutura_pendente = None
 
+    def _pendente_termina_com_conector(self) -> bool:
+        pendente = self.estrutura_pendente
+        if not pendente:
+            return False
+        lista = pendente.get('lista')
+        indice = pendente.get('indice')
+        if lista is None or indice is None:
+            return False
+        if indice < 0 or indice >= len(self.estrutura.get(lista, [])):
+            return False
+        atual = self.estrutura[lista][indice]
+        atual_upper = self._corrigir_rotulo_upper(self._corrigir_texto_quebrado(atual).upper()).replace('\xa0', ' ')
+        return re.search(r'(?:^|\s)(DO|DA|DOS|DAS)\s*$', atual_upper) is not None
+
     def _bloco_parece_nota(self, bloco_norm: str) -> bool:
         texto = bloco_norm.strip()
         return texto.startswith('(') and texto.endswith(')')
@@ -2597,6 +2680,9 @@ class ParserTextoNormas:
 
     def _pode_agregar_texto(self, idx: int, bloco_original: str, bloco_norm: str, centralizado: bool, elemento_anterior: ElementoLei) -> bool:
         if centralizado or not bloco_norm:
+            return False
+
+        if self.RE_INCISO.match(bloco_norm):
             return False
 
         upper = self._corrigir_rotulo_upper(bloco_norm.upper())
