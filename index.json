@@ -1,0 +1,22 @@
+{
+  "leis": [
+    {
+      "id": "cc-2002",
+      "nome": "Código Civil",
+      "sigla": "CC",
+      "numero": "10.406",
+      "data": "2002-01-10",
+      "ementa": "Institui o Código Civil",
+      "total_artigos": 2082
+    },
+    {
+      "id": "lcp-225",
+      "nome": "Código de Defesa do Contribuinte",
+      "sigla": "LCP 225",
+      "numero": "225",
+      "data": "2026-01-08",
+      "ementa": "Institui o Código de Defesa do Contribuinte",
+      "total_artigos": 58
+    }
+  ]
+}

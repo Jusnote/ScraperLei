@@ -1,0 +1,3259 @@
+{
+  "lei": {
+    "id": "l16869",
+    "numero": "\n   L13869\n  ",
+    "nome": "\n   L13869\n  ",
+    "data": "",
+    "ementa": "\n   L13869\n  ",
+    "hierarquia": {
+      "livros": [],
+      "titulos": [],
+      "subtitulos": [],
+      "capitulos": [
+        "CAPÍTULO I DISPOSIÇÕES GERAIS",
+        "CAPÍTULO II DOS SUJEITOS DO CRIME",
+        "CAPÍTULO III DA AÇÃO PENAL",
+        "CAPÍTULO IV DOS EFEITOS DA CONDENAÇÃO E DAS PENAS RESTRITIVAS DE DIREITOS",
+        "CAPÍTULO V DAS SANÇÕES DE NATUREZA CIVIL E ADMINISTRATIVA",
+        "CAPÍTULO VI DOS CRIMES E DAS PENAS",
+        "CAPÍTULO VII DO PROCEDIMENTO",
+        "CAPÍTULO VIII DISPOSIÇÕES FINAIS"
+      ],
+      "secoes": [
+        "Seção I Dos Efeitos da Condenação",
+        "Seção II Das Penas Restritivas de Direitos"
+      ],
+      "subsecoes": []
+    },
+    "total_artigos": 42
+  },
+  "artigos": [
+    {
+      "id": "l16869-art-1",
+      "numero": "1",
+      "slug": "l16869-art-1",
+      "search_text": "artigo 1º esta lei define os crimes de abuso de autoridade cometidos por agente publico servidor ou nao que numero exercicio de suas funcoes ou a pretexto de exerce las abuse do poder que lhe tenha sido atribuido 1º as condutas descritas nesta lei constituem crime de abuso de autoridade quando praticadas pelo agente com a finalidade especifica de prejudicar outrem ou beneficiar a si mesmo ou a terceiro ou ainda por mero capricho ou satisfacao pessoal 2º a divergencia na interpretacao de lei ou na avaliacao de fatos e provas nao configura abuso de autoridade",
+      "vigente": true,
+      "path": {
+        "livro": null,
+        "titulo": null,
+        "subtitulo": null,
+        "capitulo": "CAPÍTULO I DISPOSIÇÕES GERAIS",
+        "secao": null,
+        "subsecao": null
+      },
+      "contexto": "CAPÍTULO I DISPOSIÇÕES GERAIS",
+      "plate_content": [
+        {
+          "type": "p",
+          "children": [
+            {
+              "text": "Art. 1º",
+              "bold": true
+            },
+            {
+              "text": " Esta Lei define os crimes de abuso de autoridade, cometidos por agente público, servidor ou não, que, no exercício de suas funções ou a pretexto de exercê-las, abuse do poder que lhe tenha sido atribuído."
+            }
+          ],
+          "id": "59cb3f58-a89b-4fd9-9639-93c238c748bb",
+          "slug": "l16869-art-1",
+          "search_text": "artigo 1º esta lei define os crimes de abuso de autoridade cometidos por agente publico servidor ou nao que numero exercicio de suas funcoes ou a pretexto de exerce las abuse do poder que lhe tenha sido atribuido"
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "text": "§ 1º",
+              "bold": true
+            },
+            {
+              "text": " As condutas descritas nesta Lei constituem crime de abuso de autoridade quando praticadas pelo agente com a finalidade específica de prejudicar outrem ou beneficiar a si mesmo ou a terceiro, ou, ainda, por mero capricho ou satisfação pessoal."
+            }
+          ],
+          "id": "d1cfcf8c-0a04-4452-b63c-59f0b9c63204",
+          "slug": "l16869-art-1-par-1",
+          "search_text": "1º as condutas descritas nesta lei constituem crime de abuso de autoridade quando praticadas pelo agente com a finalidade especifica de prejudicar outrem ou beneficiar a si mesmo ou a terceiro ou ainda por mero capricho ou satisfacao pessoal",
+          "indent": 1
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "text": "§ 2º",
+              "bold": true
+            },
+            {
+              "text": " A divergência na interpretação de lei ou na avaliação de fatos e provas não configura abuso de autoridade."
+            }
+          ],
+          "id": "9099c871-593a-4a03-b61c-a218ff4ea90a",
+          "slug": "l16869-art-1-par-2",
+          "search_text": "2º a divergencia na interpretacao de lei ou na avaliacao de fatos e provas nao configura abuso de autoridade",
+          "indent": 1
+        }
+      ],
+      "texto_plano": "CAPÍTULO I DISPOSIÇÕES GERAIS | Art. 1º Esta Lei define os crimes de abuso de autoridade, cometidos por agente público, servidor ou não, que, no exercício de suas funções ou a pretexto de exercê-las, abuse do poder que lhe tenha sido atribuído.\n§ 1º As condutas descritas nesta Lei constituem crime de abuso de autoridade quando praticadas pelo agente com a finalidade específica de prejudicar outrem ou beneficiar a si mesmo ou a terceiro, ou, ainda, por mero capricho ou satisfação pessoal.\n§ 2º A divergência na interpretação de lei ou na avaliação de fatos e provas não configura abuso de autoridade."
+    },
+    {
+      "id": "l16869-art-2",
+      "numero": "2",
+      "slug": "l16869-art-2",
+      "search_text": "artigo 2º e sujeito ativo do crime de abuso de autoridade qualquer agente publico servidor ou nao da administracao direta indireta ou fundacional de qualquer dos poderes da uniao dos estados do distrito federal dos municipios e de territorio compreendendo mas nao se limitando a i servidores publicos e militares ou pessoas a eles equiparadas ii membros do poder legislativo iii membros do poder executivo iv membros do poder judiciario v membros do ministerio publico vi membros dos tribunais ou conselhos de contas paragrafo unico reputa se agente publico para os efeitos desta lei todo aquele que exerce ainda que transitoriamente ou sem remuneracao por eleicao nomeacao designacao contratacao ou qualquer outra forma de investidura ou vinculo mandato cargo emprego ou funcao em orgao ou entidade abrangidos pelo caput deste artigo",
+      "vigente": true,
+      "path": {
+        "livro": null,
+        "titulo": null,
+        "subtitulo": null,
+        "capitulo": "CAPÍTULO II DOS SUJEITOS DO CRIME",
+        "secao": null,
+        "subsecao": null
+      },
+      "contexto": "CAPÍTULO II DOS SUJEITOS DO CRIME",
+      "plate_content": [
+        {
+          "type": "p",
+          "children": [
+            {
+              "text": "Art. 2º",
+              "bold": true
+            },
+            {
+              "text": " É sujeito ativo do crime de abuso de autoridade qualquer agente público, servidor ou não, da administração direta, indireta ou fundacional de qualquer dos Poderes da União, dos Estados, do Distrito Federal, dos Municípios e de Território, compreendendo, mas não se limitando a:"
+            }
+          ],
+          "id": "981279a0-0ffc-4098-886f-e9869a8de254",
+          "slug": "l16869-art-2",
+          "search_text": "artigo 2º e sujeito ativo do crime de abuso de autoridade qualquer agente publico servidor ou nao da administracao direta indireta ou fundacional de qualquer dos poderes da uniao dos estados do distrito federal dos municipios e de territorio compreendendo mas nao se limitando a"
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "text": "I - servidores públicos e militares ou pessoas a eles equiparadas;"
+            }
+          ],
+          "id": "bd88a230-be6e-4f0b-b36d-9901f88c6698",
+          "slug": "l16869-art-2-inc-i",
+          "search_text": "i servidores publicos e militares ou pessoas a eles equiparadas",
+          "indent": 1
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "text": "II - membros do Poder Legislativo;"
+            }
+          ],
+          "id": "5f3923fd-c3cb-4319-87ea-b2c247d7aeb9",
+          "slug": "l16869-art-2-inc-ii",
+          "search_text": "ii membros do poder legislativo",
+          "indent": 1
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "text": "III - membros do Poder Executivo;"
+            }
+          ],
+          "id": "94c96ea7-4776-47c3-90b5-45230f49534b",
+          "slug": "l16869-art-2-inc-iii",
+          "search_text": "iii membros do poder executivo",
+          "indent": 1
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "text": "IV - membros do Poder Judiciário;"
+            }
+          ],
+          "id": "b02de14e-ad27-4f92-8073-9394ba5ab086",
+          "slug": "l16869-art-2-inc-iv",
+          "search_text": "iv membros do poder judiciario",
+          "indent": 1
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "text": "V - membros do Ministério Público;"
+            }
+          ],
+          "id": "3fb67bc6-b433-46dd-af7a-9e12618d75d4",
+          "slug": "l16869-art-2-inc-v",
+          "search_text": "v membros do ministerio publico",
+          "indent": 1
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "text": "VI - membros dos tribunais ou conselhos de contas."
+            }
+          ],
+          "id": "fed56778-7ab6-4de1-922c-b68e94aaccb5",
+          "slug": "l16869-art-2-inc-vi",
+          "search_text": "vi membros dos tribunais ou conselhos de contas",
+          "indent": 1
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "text": "Parágrafo único.",
+              "bold": true
+            },
+            {
+              "text": " Reputa-se agente público, para os efeitos desta Lei, todo aquele que exerce, ainda que transitoriamente ou sem remuneração, por eleição, nomeação, designação, contratação ou qualquer outra forma de investidura ou vínculo, mandato, cargo, emprego ou função em órgão ou entidade abrangidos pelo caput deste artigo."
+            }
+          ],
+          "id": "664e576c-c0e3-4ce9-8b1b-813906f4df3c",
+          "slug": "l16869-art-2-par-unico",
+          "search_text": "paragrafo unico reputa se agente publico para os efeitos desta lei todo aquele que exerce ainda que transitoriamente ou sem remuneracao por eleicao nomeacao designacao contratacao ou qualquer outra forma de investidura ou vinculo mandato cargo emprego ou funcao em orgao ou entidade abrangidos pelo caput deste artigo",
+          "indent": 1
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "text": "Art. 3º (VETADO)."
+            }
+          ],
+          "id": "5a2e0991-f35e-4363-a719-263d24849aa4",
+          "slug": null,
+          "search_text": null
+        }
+      ],
+      "texto_plano": "CAPÍTULO II DOS SUJEITOS DO CRIME | Art. 2º É sujeito ativo do crime de abuso de autoridade qualquer agente público, servidor ou não, da administração direta, indireta ou fundacional de qualquer dos Poderes da União, dos Estados, do Distrito Federal, dos Municípios e de Território, compreendendo, mas não se limitando a:\nI - servidores públicos e militares ou pessoas a eles equiparadas;\nII - membros do Poder Legislativo;\nIII - membros do Poder Executivo;\nIV - membros do Poder Judiciário;\nV - membros do Ministério Público;\nVI - membros dos tribunais ou conselhos de contas.\nParágrafo único. Reputa-se agente público, para os efeitos desta Lei, todo aquele que exerce, ainda que transitoriamente ou sem remuneração, por eleição, nomeação, designação, contratação ou qualquer outra forma de investidura ou vínculo, mandato, cargo, emprego ou função em órgão ou entidade abrangidos pelo caput deste artigo.\nArt. 3º (VETADO)."
+    },
+    {
+      "id": "l16869-art-3",
+      "numero": "3",
+      "slug": "l16869-art-3",
+      "search_text": "artigo 3º os crimes previstos nesta lei sao de acao penal publica incondicionada promulgacao partes vetadas 1º sera admitida acao privada se a acao penal publica nao for intentada numero prazo legal cabendo ao ministerio publico aditar a queixa repudia la e oferecer denuncia substitutiva intervir em todos os termos do processo fornecer elementos de prova interpor recurso e a todo tempo numero caso de negligencia do querelante retomar a acao como parte principal 2º a acao privada subsidiaria sera exercida numero prazo de 6 seis meses contado da data em que se esgotar o prazo para oferecimento da denuncia",
+      "vigente": true,
+      "path": {
+        "livro": null,
+        "titulo": null,
+        "subtitulo": null,
+        "capitulo": "CAPÍTULO III DA AÇÃO PENAL",
+        "secao": null,
+        "subsecao": null
+      },
+      "contexto": "CAPÍTULO III DA AÇÃO PENAL",
+      "plate_content": [
+        {
+          "type": "p",
+          "children": [
+            {
+              "text": "Art. 3º",
+              "bold": true
+            },
+            {
+              "text": " Os crimes previstos nesta Lei são de ação penal pública incondicionada. (Promulgação partes vetadas)"
+            }
+          ],
+          "id": "29ea0f85-a7c3-46ae-8251-4dc8f032361c",
+          "slug": "l16869-art-3",
+          "search_text": "artigo 3º os crimes previstos nesta lei sao de acao penal publica incondicionada promulgacao partes vetadas"
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "text": "§ 1º",
+              "bold": true
+            },
+            {
+              "text": " Será admitida ação privada se a ação penal pública não for intentada no prazo legal, cabendo ao Ministério Público aditar a queixa, repudiá-la e oferecer denúncia substitutiva, intervir em todos os termos do processo, fornecer elementos de prova, interpor recurso e, a todo tempo, no caso de negligência do querelante, retomar a ação como parte principal."
+            }
+          ],
+          "id": "16e725a5-e663-45bd-b44e-549b0b49cb06",
+          "slug": "l16869-art-3-par-1",
+          "search_text": "1º sera admitida acao privada se a acao penal publica nao for intentada numero prazo legal cabendo ao ministerio publico aditar a queixa repudia la e oferecer denuncia substitutiva intervir em todos os termos do processo fornecer elementos de prova interpor recurso e a todo tempo numero caso de negligencia do querelante retomar a acao como parte principal",
+          "indent": 1
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "text": "§ 2º",
+              "bold": true
+            },
+            {
+              "text": " A ação privada subsidiária será exercida no prazo de 6 (seis) meses, contado da data em que se esgotar o prazo para oferecimento da denúncia."
+            }
+          ],
+          "id": "3e4a59ac-10b6-4553-9806-74a1abd65280",
+          "slug": "l16869-art-3-par-2",
+          "search_text": "2º a acao privada subsidiaria sera exercida numero prazo de 6 seis meses contado da data em que se esgotar o prazo para oferecimento da denuncia",
+          "indent": 1
+        }
+      ],
+      "texto_plano": "CAPÍTULO III DA AÇÃO PENAL | Art. 3º Os crimes previstos nesta Lei são de ação penal pública incondicionada. (Promulgação partes vetadas)\n§ 1º Será admitida ação privada se a ação penal pública não for intentada no prazo legal, cabendo ao Ministério Público aditar a queixa, repudiá-la e oferecer denúncia substitutiva, intervir em todos os termos do processo, fornecer elementos de prova, interpor recurso e, a todo tempo, no caso de negligência do querelante, retomar a ação como parte principal.\n§ 2º A ação privada subsidiária será exercida no prazo de 6 (seis) meses, contado da data em que se esgotar o prazo para oferecimento da denúncia."
+    },
+    {
+      "id": "l16869-art-4",
+      "numero": "4",
+      "slug": "l16869-art-4",
+      "search_text": "artigo 4º sao efeitos da condenacao i tornar certa a obrigacao de indenizar o dano causado pelo crime devendo o juiz a requerimento do ofendido fixar na sentenca o valor minimo para reparacao dos danos causados pela infracao considerando os prejuizos por ele sofridos ii a inabilitacao para o exercicio de cargo mandato ou funcao publica pelo periodo de 1 um a 5 cinco anos iii a perda do cargo do mandato ou da funcao publica paragrafo unico os efeitos previstos nos incisos ii e iii do caput deste artigo sao condicionados a ocorrencia de reincidencia em crime de abuso de autoridade e nao sao automaticos devendo ser declarados motivadamente na sentenca",
+      "vigente": true,
+      "path": {
+        "livro": null,
+        "titulo": null,
+        "subtitulo": null,
+        "capitulo": "CAPÍTULO IV DOS EFEITOS DA CONDENAÇÃO E DAS PENAS RESTRITIVAS DE DIREITOS",
+        "secao": "Seção I Dos Efeitos da Condenação",
+        "subsecao": null
+      },
+      "contexto": "CAPÍTULO IV DOS EFEITOS DA CONDENAÇÃO E DAS PENAS RESTRITIVAS DE DIREITOS > Seção I Dos Efeitos da Condenação",
+      "plate_content": [
+        {
+          "type": "p",
+          "children": [
+            {
+              "text": "Art. 4º",
+              "bold": true
+            },
+            {
+              "text": " São efeitos da condenação:"
+            }
+          ],
+          "id": "e4f9c2f7-4f33-4042-99ab-0427cca1e9ca",
+          "slug": "l16869-art-4",
+          "search_text": "artigo 4º sao efeitos da condenacao"
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "text": "I - tornar certa a obrigação de indenizar o dano causado pelo crime, devendo o juiz, a requerimento do ofendido, fixar na sentença o valor mínimo para reparação dos danos causados pela infração, considerando os prejuízos por ele sofridos;"
+            }
+          ],
+          "id": "8e383891-3e66-4a52-91cb-b5335171ce17",
+          "slug": "l16869-art-4-inc-i",
+          "search_text": "i tornar certa a obrigacao de indenizar o dano causado pelo crime devendo o juiz a requerimento do ofendido fixar na sentenca o valor minimo para reparacao dos danos causados pela infracao considerando os prejuizos por ele sofridos",
+          "indent": 1
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "text": "II - a inabilitação para o exercício de cargo, mandato ou função pública, pelo período de 1 (um) a 5 (cinco) anos;"
+            }
+          ],
+          "id": "a5c79f3e-2e8a-4638-8103-293ddca7a5ff",
+          "slug": "l16869-art-4-inc-ii",
+          "search_text": "ii a inabilitacao para o exercicio de cargo mandato ou funcao publica pelo periodo de 1 um a 5 cinco anos",
+          "indent": 1
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "text": "III - a perda do cargo, do mandato ou da função pública."
+            }
+          ],
+          "id": "2df68281-2250-480e-be5c-065c5a1217e6",
+          "slug": "l16869-art-4-inc-iii",
+          "search_text": "iii a perda do cargo do mandato ou da funcao publica",
+          "indent": 1
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "text": "Parágrafo único.",
+              "bold": true
+            },
+            {
+              "text": " Os efeitos previstos nos incisos II e III do caput deste artigo são condicionados à ocorrência de reincidência em crime de abuso de autoridade e não são automáticos, devendo ser declarados motivadamente na sentença."
+            }
+          ],
+          "id": "c7c9dd54-ce31-456a-a926-e30c02201a34",
+          "slug": "l16869-art-4-par-unico",
+          "search_text": "paragrafo unico os efeitos previstos nos incisos ii e iii do caput deste artigo sao condicionados a ocorrencia de reincidencia em crime de abuso de autoridade e nao sao automaticos devendo ser declarados motivadamente na sentenca",
+          "indent": 1
+        }
+      ],
+      "texto_plano": "CAPÍTULO IV DOS EFEITOS DA CONDENAÇÃO E DAS PENAS RESTRITIVAS DE DIREITOS > Seção I Dos Efeitos da Condenação | Art. 4º São efeitos da condenação:\nI - tornar certa a obrigação de indenizar o dano causado pelo crime, devendo o juiz, a requerimento do ofendido, fixar na sentença o valor mínimo para reparação dos danos causados pela infração, considerando os prejuízos por ele sofridos;\nII - a inabilitação para o exercício de cargo, mandato ou função pública, pelo período de 1 (um) a 5 (cinco) anos;\nIII - a perda do cargo, do mandato ou da função pública.\nParágrafo único. Os efeitos previstos nos incisos II e III do caput deste artigo são condicionados à ocorrência de reincidência em crime de abuso de autoridade e não são automáticos, devendo ser declarados motivadamente na sentença."
+    },
+    {
+      "id": "l16869-art-5",
+      "numero": "5",
+      "slug": "l16869-art-5",
+      "search_text": "artigo 5º as penas restritivas de direitos substitutivas das privativas de liberdade previstas nesta lei sao i prestacao de servicos a comunidade ou a entidades publicas ii suspensao do exercicio do cargo da funcao ou do mandato pelo prazo de 1 um a 6 seis meses com a perda dos vencimentos e das vantagens iii vetado paragrafo unico as penas restritivas de direitos podem ser aplicadas autonoma ou cumulativamente",
+      "vigente": true,
+      "path": {
+        "livro": null,
+        "titulo": null,
+        "subtitulo": null,
+        "capitulo": "CAPÍTULO IV DOS EFEITOS DA CONDENAÇÃO E DAS PENAS RESTRITIVAS DE DIREITOS",
+        "secao": "Seção II Das Penas Restritivas de Direitos",
+        "subsecao": null
+      },
+      "contexto": "CAPÍTULO IV DOS EFEITOS DA CONDENAÇÃO E DAS PENAS RESTRITIVAS DE DIREITOS > Seção II Das Penas Restritivas de Direitos",
+      "plate_content": [
+        {
+          "type": "p",
+          "children": [
+            {
+              "text": "Art. 5º",
+              "bold": true
+            },
+            {
+              "text": " As penas restritivas de direitos substitutivas das privativas de liberdade previstas nesta Lei são:"
+            }
+          ],
+          "id": "629c074b-1fc7-4b15-993c-70c0f99a0b1e",
+          "slug": "l16869-art-5",
+          "search_text": "artigo 5º as penas restritivas de direitos substitutivas das privativas de liberdade previstas nesta lei sao"
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "text": "I - prestação de serviços à comunidade ou a entidades públicas;"
+            }
+          ],
+          "id": "01319b00-3281-4873-bbf7-67dd32de29ff",
+          "slug": "l16869-art-5-inc-i",
+          "search_text": "i prestacao de servicos a comunidade ou a entidades publicas",
+          "indent": 1
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "text": "II - suspensão do exercício do cargo, da função ou do mandato, pelo prazo de 1 (um) a 6 (seis) meses, com a perda dos vencimentos e das vantagens;"
+            }
+          ],
+          "id": "13cc24c9-4d3e-4745-af91-759c894be11c",
+          "slug": "l16869-art-5-inc-ii",
+          "search_text": "ii suspensao do exercicio do cargo da funcao ou do mandato pelo prazo de 1 um a 6 seis meses com a perda dos vencimentos e das vantagens",
+          "indent": 1
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "text": "III - (VETADO).",
+              "strikethrough": true
+            }
+          ],
+          "id": "7e1ce01e-9b8b-4b81-bb14-736c4127d497",
+          "slug": "l16869-art-5-inc-iii",
+          "search_text": "iii vetado",
+          "indent": 1
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "text": "Parágrafo único.",
+              "bold": true
+            },
+            {
+              "text": " As penas restritivas de direitos podem ser aplicadas autônoma ou cumulativamente."
+            }
+          ],
+          "id": "f9754193-c49b-4d23-b45e-17ccb130016c",
+          "slug": "l16869-art-5-par-unico",
+          "search_text": "paragrafo unico as penas restritivas de direitos podem ser aplicadas autonoma ou cumulativamente",
+          "indent": 1
+        }
+      ],
+      "texto_plano": "CAPÍTULO IV DOS EFEITOS DA CONDENAÇÃO E DAS PENAS RESTRITIVAS DE DIREITOS > Seção II Das Penas Restritivas de Direitos | Art. 5º As penas restritivas de direitos substitutivas das privativas de liberdade previstas nesta Lei são:\nI - prestação de serviços à comunidade ou a entidades públicas;\nII - suspensão do exercício do cargo, da função ou do mandato, pelo prazo de 1 (um) a 6 (seis) meses, com a perda dos vencimentos e das vantagens;\nIII - (VETADO).\nParágrafo único. As penas restritivas de direitos podem ser aplicadas autônoma ou cumulativamente."
+    },
+    {
+      "id": "l16869-art-6",
+      "numero": "6",
+      "slug": "l16869-art-6",
+      "search_text": "artigo 6º as penas previstas nesta lei serao aplicadas independentemente das sancoes de natureza civil ou administrativa cabiveis paragrafo unico as noticias de crimes previstos nesta lei que descreverem falta funcional serao informadas a autoridade competente com vistas a apuracao",
+      "vigente": true,
+      "path": {
+        "livro": null,
+        "titulo": null,
+        "subtitulo": null,
+        "capitulo": "CAPÍTULO V DAS SANÇÕES DE NATUREZA CIVIL E ADMINISTRATIVA",
+        "secao": null,
+        "subsecao": null
+      },
+      "contexto": "CAPÍTULO V DAS SANÇÕES DE NATUREZA CIVIL E ADMINISTRATIVA",
+      "plate_content": [
+        {
+          "type": "p",
+          "children": [
+            {
+              "text": "Art. 6º",
+              "bold": true
+            },
+            {
+              "text": " As penas previstas nesta Lei serão aplicadas independentemente das sanções de natureza civil ou administrativa cabíveis."
+            }
+          ],
+          "id": "07e5b639-4e3e-4e6d-9987-7302d105cc05",
+          "slug": "l16869-art-6",
+          "search_text": "artigo 6º as penas previstas nesta lei serao aplicadas independentemente das sancoes de natureza civil ou administrativa cabiveis"
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "text": "Parágrafo único.",
+              "bold": true
+            },
+            {
+              "text": " As notícias de crimes previstos nesta Lei que descreverem falta funcional serão informadas à autoridade competente com vistas à apuração."
+            }
+          ],
+          "id": "b7a026cb-2c8b-4bb0-aca0-d86622117d17",
+          "slug": "l16869-art-6-par-unico",
+          "search_text": "paragrafo unico as noticias de crimes previstos nesta lei que descreverem falta funcional serao informadas a autoridade competente com vistas a apuracao",
+          "indent": 1
+        }
+      ],
+      "texto_plano": "CAPÍTULO V DAS SANÇÕES DE NATUREZA CIVIL E ADMINISTRATIVA | Art. 6º As penas previstas nesta Lei serão aplicadas independentemente das sanções de natureza civil ou administrativa cabíveis.\nParágrafo único. As notícias de crimes previstos nesta Lei que descreverem falta funcional serão informadas à autoridade competente com vistas à apuração."
+    },
+    {
+      "id": "l16869-art-7",
+      "numero": "7",
+      "slug": "l16869-art-7",
+      "search_text": "artigo 7º as responsabilidades civil e administrativa sao independentes da criminal nao se podendo mais questionar sobre a existencia ou a autoria do fato quando essas questoes tenham sido decididas numero juizo criminal",
+      "vigente": true,
+      "path": {
+        "livro": null,
+        "titulo": null,
+        "subtitulo": null,
+        "capitulo": "CAPÍTULO V DAS SANÇÕES DE NATUREZA CIVIL E ADMINISTRATIVA",
+        "secao": null,
+        "subsecao": null
+      },
+      "contexto": "CAPÍTULO V DAS SANÇÕES DE NATUREZA CIVIL E ADMINISTRATIVA",
+      "plate_content": [
+        {
+          "type": "p",
+          "children": [
+            {
+              "text": "Art. 7º",
+              "bold": true
+            },
+            {
+              "text": " As responsabilidades civil e administrativa são independentes da criminal, não se podendo mais questionar sobre a existência ou a autoria do fato quando essas questões tenham sido decididas no juízo criminal."
+            }
+          ],
+          "id": "c8deeafe-8099-4117-92c0-987435dd98a8",
+          "slug": "l16869-art-7",
+          "search_text": "artigo 7º as responsabilidades civil e administrativa sao independentes da criminal nao se podendo mais questionar sobre a existencia ou a autoria do fato quando essas questoes tenham sido decididas numero juizo criminal"
+        }
+      ],
+      "texto_plano": "CAPÍTULO V DAS SANÇÕES DE NATUREZA CIVIL E ADMINISTRATIVA | Art. 7º As responsabilidades civil e administrativa são independentes da criminal, não se podendo mais questionar sobre a existência ou a autoria do fato quando essas questões tenham sido decididas no juízo criminal."
+    },
+    {
+      "id": "l16869-art-8",
+      "numero": "8",
+      "slug": "l16869-art-8",
+      "search_text": "artigo 8º faz coisa julgada em ambito civel assim como numero administrativo disciplinar a sentenca penal que reconhecer ter sido o ato praticado em estado de necessidade em legitima defesa em estrito cumprimento de dever legal ou numero exercicio regular de direito",
+      "vigente": true,
+      "path": {
+        "livro": null,
+        "titulo": null,
+        "subtitulo": null,
+        "capitulo": "CAPÍTULO V DAS SANÇÕES DE NATUREZA CIVIL E ADMINISTRATIVA",
+        "secao": null,
+        "subsecao": null
+      },
+      "contexto": "CAPÍTULO V DAS SANÇÕES DE NATUREZA CIVIL E ADMINISTRATIVA",
+      "plate_content": [
+        {
+          "type": "p",
+          "children": [
+            {
+              "text": "Art. 8º",
+              "bold": true
+            },
+            {
+              "text": " Faz coisa julgada em âmbito cível, assim como no administrativo-disciplinar, a sentença penal que reconhecer ter sido o ato praticado em estado de necessidade, em legítima defesa, em estrito cumprimento de dever legal ou no exercício regular de direito."
+            }
+          ],
+          "id": "d2c5b307-0e82-499a-ace1-59c6072281cf",
+          "slug": "l16869-art-8",
+          "search_text": "artigo 8º faz coisa julgada em ambito civel assim como numero administrativo disciplinar a sentenca penal que reconhecer ter sido o ato praticado em estado de necessidade em legitima defesa em estrito cumprimento de dever legal ou numero exercicio regular de direito"
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "text": "Art. 9º (VETADO)."
+            }
+          ],
+          "id": "52a5ee4a-5c51-45e3-9fe6-793c0a037254",
+          "slug": null,
+          "search_text": null
+        }
+      ],
+      "texto_plano": "CAPÍTULO V DAS SANÇÕES DE NATUREZA CIVIL E ADMINISTRATIVA | Art. 8º Faz coisa julgada em âmbito cível, assim como no administrativo-disciplinar, a sentença penal que reconhecer ter sido o ato praticado em estado de necessidade, em legítima defesa, em estrito cumprimento de dever legal ou no exercício regular de direito.\nArt. 9º (VETADO)."
+    },
+    {
+      "id": "l16869-art-9",
+      "numero": "9",
+      "slug": "l16869-art-9",
+      "search_text": "artigo 9º decretar medida de privacao da liberdade em manifesta desconformidade com as hipoteses legais promulgacao partes vetadas pena detencao de 1 um a 4 quatro anos e multa paragrafo unico incorre na mesma pena a autoridade judiciaria que dentro de prazo razoavel deixar de i relaxar a prisao manifestamente ilegal ii substituir a prisao preventiva por medida cautelar diversa ou de conceder liberdade provisoria quando manifestamente cabivel iii deferir liminar ou ordem de habeas corpus quando manifestamente cabivel",
+      "vigente": true,
+      "path": {
+        "livro": null,
+        "titulo": null,
+        "subtitulo": null,
+        "capitulo": "CAPÍTULO VI DOS CRIMES E DAS PENAS",
+        "secao": null,
+        "subsecao": null
+      },
+      "contexto": "CAPÍTULO VI DOS CRIMES E DAS PENAS",
+      "plate_content": [
+        {
+          "type": "p",
+          "children": [
+            {
+              "text": "Art. 9º",
+              "bold": true
+            },
+            {
+              "text": " Decretar medida de privação da liberdade em manifesta desconformidade com as hipóteses legais: (Promulgação partes vetadas)"
+            }
+          ],
+          "id": "f7ef23ad-17ec-41d4-98f1-18da94dc680b",
+          "slug": "l16869-art-9",
+          "search_text": "artigo 9º decretar medida de privacao da liberdade em manifesta desconformidade com as hipoteses legais promulgacao partes vetadas"
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "text": "Pena - detenção, de 1 (um) a 4 (quatro) anos, e multa."
+            }
+          ],
+          "id": "a7a66033-c37d-42b9-a34f-f10de6138e80",
+          "slug": null,
+          "search_text": "pena detencao de 1 um a 4 quatro anos e multa"
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "text": "Parágrafo único.",
+              "bold": true
+            },
+            {
+              "text": " Incorre na mesma pena a autoridade judiciária que, dentro de prazo razoável, deixar de:"
+            }
+          ],
+          "id": "1df33927-89d6-4112-a49f-233f54274798",
+          "slug": "l16869-art-9-par-unico",
+          "search_text": "paragrafo unico incorre na mesma pena a autoridade judiciaria que dentro de prazo razoavel deixar de",
+          "indent": 1
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "text": "I - relaxar a prisão manifestamente ilegal;"
+            }
+          ],
+          "id": "52f9c77e-b877-4169-b164-e235e7921fc5",
+          "slug": "l16869-art-9-par-unico-inc-i",
+          "search_text": "i relaxar a prisao manifestamente ilegal",
+          "indent": 2
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "text": "II - substituir a prisão preventiva por medida cautelar diversa ou de conceder liberdade provisória, quando manifestamente cabível;"
+            }
+          ],
+          "id": "ce5f2222-70d9-4d5f-91e4-d5cb0f8e2996",
+          "slug": "l16869-art-9-par-unico-inc-ii",
+          "search_text": "ii substituir a prisao preventiva por medida cautelar diversa ou de conceder liberdade provisoria quando manifestamente cabivel",
+          "indent": 2
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "text": "III - deferir liminar ou ordem de habeas corpus, quando manifestamente cabível.’"
+            }
+          ],
+          "id": "b28c0ef9-4ce0-40f1-a32a-d342a8e32e60",
+          "slug": "l16869-art-9-par-unico-inc-iii",
+          "search_text": "iii deferir liminar ou ordem de habeas corpus quando manifestamente cabivel",
+          "indent": 2
+        }
+      ],
+      "texto_plano": "CAPÍTULO VI DOS CRIMES E DAS PENAS | Art. 9º Decretar medida de privação da liberdade em manifesta desconformidade com as hipóteses legais: (Promulgação partes vetadas)\nPena - detenção, de 1 (um) a 4 (quatro) anos, e multa.\nParágrafo único. Incorre na mesma pena a autoridade judiciária que, dentro de prazo razoável, deixar de:\nI - relaxar a prisão manifestamente ilegal;\nII - substituir a prisão preventiva por medida cautelar diversa ou de conceder liberdade provisória, quando manifestamente cabível;\nIII - deferir liminar ou ordem de habeas corpus, quando manifestamente cabível.’"
+    },
+    {
+      "id": "l16869-art-10",
+      "numero": "10",
+      "slug": "l16869-art-10",
+      "search_text": "artigo 10 decretar a conducao coercitiva de testemunha ou investigado manifestamente descabida ou sem previa intimacao de comparecimento ao juizo pena detencao de 1 um a 4 quatro anos e multa",
+      "vigente": true,
+      "path": {
+        "livro": null,
+        "titulo": null,
+        "subtitulo": null,
+        "capitulo": "CAPÍTULO VI DOS CRIMES E DAS PENAS",
+        "secao": null,
+        "subsecao": null
+      },
+      "contexto": "CAPÍTULO VI DOS CRIMES E DAS PENAS",
+      "plate_content": [
+        {
+          "type": "p",
+          "children": [
+            {
+              "text": "Art. 10.",
+              "bold": true
+            },
+            {
+              "text": " Decretar a condução coercitiva de testemunha ou investigado manifestamente descabida ou sem prévia intimação de comparecimento ao juízo:"
+            }
+          ],
+          "id": "38caf7a7-0125-4094-8b9f-e39ff164527a",
+          "slug": "l16869-art-10",
+          "search_text": "artigo 10 decretar a conducao coercitiva de testemunha ou investigado manifestamente descabida ou sem previa intimacao de comparecimento ao juizo"
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "text": "Pena - detenção, de 1 (um) a 4 (quatro) anos, e multa."
+            }
+          ],
+          "id": "56696607-ff64-49d5-8e33-c04d6fdbd5c6",
+          "slug": null,
+          "search_text": "pena detencao de 1 um a 4 quatro anos e multa"
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "text": "Art. 11. (VETADO)."
+            }
+          ],
+          "id": "e72a36dc-993b-47ab-8070-c545ad7503eb",
+          "slug": null,
+          "search_text": null
+        }
+      ],
+      "texto_plano": "CAPÍTULO VI DOS CRIMES E DAS PENAS | Art. 10. Decretar a condução coercitiva de testemunha ou investigado manifestamente descabida ou sem prévia intimação de comparecimento ao juízo:\nPena - detenção, de 1 (um) a 4 (quatro) anos, e multa.\nArt. 11. (VETADO)."
+    },
+    {
+      "id": "l16869-art-12",
+      "numero": "12",
+      "slug": "l16869-art-12",
+      "search_text": "artigo 12 deixar injustificadamente de comunicar prisao em flagrante a autoridade judiciaria numero prazo legal pena detencao de 6 seis meses a 2 dois anos e multa paragrafo unico incorre na mesma pena quem i deixa de comunicar imediatamente a execucao de prisao temporaria ou preventiva a autoridade judiciaria que a decretou ii deixa de comunicar imediatamente a prisao de qualquer pessoa e o local onde se encontra a sua familia ou a pessoa por ela indicada iii deixa de entregar ao preso numero prazo de 24 vinte e quatro horas a nota de culpa assinada pela autoridade com o motivo da prisao e os nomes do condutor e das testemunhas iv prolonga a execucao de pena privativa de liberdade de prisao temporaria de prisao preventiva de medida de seguranca ou de internacao deixando sem motivo justo e excepcionalissimo de executar o alvara de soltura imediatamente apos recebido ou de promover a soltura do preso quando esgotado o prazo judicial ou legal",
+      "vigente": true,
+      "path": {
+        "livro": null,
+        "titulo": null,
+        "subtitulo": null,
+        "capitulo": "CAPÍTULO VI DOS CRIMES E DAS PENAS",
+        "secao": null,
+        "subsecao": null
+      },
+      "contexto": "CAPÍTULO VI DOS CRIMES E DAS PENAS",
+      "plate_content": [
+        {
+          "type": "p",
+          "children": [
+            {
+              "text": "Art. 12.",
+              "bold": true
+            },
+            {
+              "text": " Deixar injustificadamente de comunicar prisão em flagrante à autoridade judiciária no prazo legal:"
+            }
+          ],
+          "id": "ac0e3233-bb1f-4282-b6af-779194354037",
+          "slug": "l16869-art-12",
+          "search_text": "artigo 12 deixar injustificadamente de comunicar prisao em flagrante a autoridade judiciaria numero prazo legal"
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "text": "Pena - detenção, de 6 (seis) meses a 2 (dois) anos, e multa."
+            }
+          ],
+          "id": "07534786-19e7-4f8f-b495-248d08ef0c30",
+          "slug": null,
+          "search_text": "pena detencao de 6 seis meses a 2 dois anos e multa"
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "text": "Parágrafo único.",
+              "bold": true
+            },
+            {
+              "text": " Incorre na mesma pena quem:"
+            }
+          ],
+          "id": "027580e9-0b43-4eda-baaf-3dbb1958228f",
+          "slug": "l16869-art-12-par-unico",
+          "search_text": "paragrafo unico incorre na mesma pena quem",
+          "indent": 1
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "text": "I - deixa de comunicar, imediatamente, a execução de prisão temporária ou preventiva à autoridade judiciária que a decretou;"
+            }
+          ],
+          "id": "e36715f0-4c7a-4089-a8a5-83bf6590f38d",
+          "slug": "l16869-art-12-par-unico-inc-i",
+          "search_text": "i deixa de comunicar imediatamente a execucao de prisao temporaria ou preventiva a autoridade judiciaria que a decretou",
+          "indent": 2
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "text": "II - deixa de comunicar, imediatamente, a prisão de qualquer pessoa e o local onde se encontra à sua família ou à pessoa por ela indicada;"
+            }
+          ],
+          "id": "7c78026e-4440-4319-8781-00c499833cef",
+          "slug": "l16869-art-12-par-unico-inc-ii",
+          "search_text": "ii deixa de comunicar imediatamente a prisao de qualquer pessoa e o local onde se encontra a sua familia ou a pessoa por ela indicada",
+          "indent": 2
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "text": "III - deixa de entregar ao preso, no prazo de 24 (vinte e quatro) horas, a nota de culpa, assinada pela autoridade, com o motivo da prisão e os nomes do condutor e das testemunhas;"
+            }
+          ],
+          "id": "524b12e0-b87b-4314-b014-47f9fe9bc415",
+          "slug": "l16869-art-12-par-unico-inc-iii",
+          "search_text": "iii deixa de entregar ao preso numero prazo de 24 vinte e quatro horas a nota de culpa assinada pela autoridade com o motivo da prisao e os nomes do condutor e das testemunhas",
+          "indent": 2
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "text": "IV - prolonga a execução de pena privativa de liberdade, de prisão temporária, de prisão preventiva, de medida de segurança ou de internação, deixando, sem motivo justo e excepcionalíssimo, de executar o alvará de soltura imediatamente após recebido ou de promover a soltura do preso quando esgotado o prazo judicial ou legal."
+            }
+          ],
+          "id": "297f257c-0391-42e6-8bcb-e6fc8fbfaa89",
+          "slug": "l16869-art-12-par-unico-inc-iv",
+          "search_text": "iv prolonga a execucao de pena privativa de liberdade de prisao temporaria de prisao preventiva de medida de seguranca ou de internacao deixando sem motivo justo e excepcionalissimo de executar o alvara de soltura imediatamente apos recebido ou de promover a soltura do preso quando esgotado o prazo judicial ou legal",
+          "indent": 2
+        }
+      ],
+      "texto_plano": "CAPÍTULO VI DOS CRIMES E DAS PENAS | Art. 12. Deixar injustificadamente de comunicar prisão em flagrante à autoridade judiciária no prazo legal:\nPena - detenção, de 6 (seis) meses a 2 (dois) anos, e multa.\nParágrafo único. Incorre na mesma pena quem:\nI - deixa de comunicar, imediatamente, a execução de prisão temporária ou preventiva à autoridade judiciária que a decretou;\nII - deixa de comunicar, imediatamente, a prisão de qualquer pessoa e o local onde se encontra à sua família ou à pessoa por ela indicada;\nIII - deixa de entregar ao preso, no prazo de 24 (vinte e quatro) horas, a nota de culpa, assinada pela autoridade, com o motivo da prisão e os nomes do condutor e das testemunhas;\nIV - prolonga a execução de pena privativa de liberdade, de prisão temporária, de prisão preventiva, de medida de segurança ou de internação, deixando, sem motivo justo e excepcionalíssimo, de executar o alvará de soltura imediatamente após recebido ou de promover a soltura do preso quando esgotado o prazo judicial ou legal."
+    },
+    {
+      "id": "l16869-art-13",
+      "numero": "13",
+      "slug": "l16869-art-13",
+      "search_text": "artigo 13 constranger o preso ou o detento mediante violencia grave ameaca ou reducao de sua capacidade de resistencia a i exibir se ou ter seu corpo ou parte dele exibido a curiosidade publica ii submeter se a situacao vexatoria ou a constrangimento nao autorizado em lei iii vetado iii produzir prova contra si mesmo ou contra terceiro promulgacao partes vetadas pena detencao de 1 um a 4 quatro anos e multa sem prejuizo da pena cominada a violencia",
+      "vigente": true,
+      "path": {
+        "livro": null,
+        "titulo": null,
+        "subtitulo": null,
+        "capitulo": "CAPÍTULO VI DOS CRIMES E DAS PENAS",
+        "secao": null,
+        "subsecao": null
+      },
+      "contexto": "CAPÍTULO VI DOS CRIMES E DAS PENAS",
+      "plate_content": [
+        {
+          "type": "p",
+          "children": [
+            {
+              "text": "Art. 13.",
+              "bold": true
+            },
+            {
+              "text": " Constranger o preso ou o detento, mediante violência, grave ameaça ou redução de sua capacidade de resistência, a:"
+            }
+          ],
+          "id": "94d93a2f-a91f-4806-88a0-bc33ac3e9df6",
+          "slug": "l16869-art-13",
+          "search_text": "artigo 13 constranger o preso ou o detento mediante violencia grave ameaca ou reducao de sua capacidade de resistencia a"
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "text": "I - exibir-se ou ter seu corpo ou parte dele exibido à curiosidade pública;"
+            }
+          ],
+          "id": "a4329c79-3436-4ab0-bff9-0f0c76101a41",
+          "slug": "l16869-art-13-inc-i",
+          "search_text": "i exibir se ou ter seu corpo ou parte dele exibido a curiosidade publica",
+          "indent": 1
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "text": "II - submeter-se a situação vexatória ou a constrangimento não autorizado em lei;"
+            }
+          ],
+          "id": "e9c15599-5688-4f0a-8073-1fe43e0a83de",
+          "slug": "l16869-art-13-inc-ii",
+          "search_text": "ii submeter se a situacao vexatoria ou a constrangimento nao autorizado em lei",
+          "indent": 1
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "text": "III - (VETADO).",
+              "strikethrough": true
+            }
+          ],
+          "id": "8698772f-09b2-491b-b711-b7e157b20de0",
+          "slug": "l16869-art-13-inc-iii",
+          "search_text": "iii vetado",
+          "indent": 1
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "text": "III - produzir prova contra si mesmo ou contra terceiro: (Promulgação partes vetadas)"
+            }
+          ],
+          "id": "61ad73ad-7f92-4d25-8c44-e718f84b5629",
+          "slug": "l16869-art-13-inc-iii",
+          "search_text": "iii produzir prova contra si mesmo ou contra terceiro promulgacao partes vetadas",
+          "indent": 1
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "text": "Pena - detenção, de 1 (um) a 4 (quatro) anos, e multa, sem prejuízo da pena cominada à violência."
+            }
+          ],
+          "id": "3586af1b-0a17-446f-8be2-68df6ca4a69a",
+          "slug": null,
+          "search_text": "pena detencao de 1 um a 4 quatro anos e multa sem prejuizo da pena cominada a violencia",
+          "indent": 1
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "text": "Art. 14. (VETADO)."
+            }
+          ],
+          "id": "722a992b-8a72-4424-9619-f3aa7097c107",
+          "slug": null,
+          "search_text": null
+        }
+      ],
+      "texto_plano": "CAPÍTULO VI DOS CRIMES E DAS PENAS | Art. 13. Constranger o preso ou o detento, mediante violência, grave ameaça ou redução de sua capacidade de resistência, a:\nI - exibir-se ou ter seu corpo ou parte dele exibido à curiosidade pública;\nII - submeter-se a situação vexatória ou a constrangimento não autorizado em lei;\nIII - (VETADO).\nIII - produzir prova contra si mesmo ou contra terceiro: (Promulgação partes vetadas)\nPena - detenção, de 1 (um) a 4 (quatro) anos, e multa, sem prejuízo da pena cominada à violência.\nArt. 14. (VETADO)."
+    },
+    {
+      "id": "l16869-art-15",
+      "numero": "15",
+      "slug": "l16869-art-15",
+      "search_text": "artigo 15 constranger a depor sob ameaca de prisao pessoa que em razao de funcao ministerio oficio ou profissao deva guardar segredo ou resguardar sigilo pena detencao de 1 um a 4 quatro anos e multa paragrafo unico vetado paragrafo unico incorre na mesma pena quem prossegue com o interrogatorio promulgacao partes vetadas i de pessoa que tenha decidido exercer o direito ao silencio ou ii de pessoa que tenha optado por ser assistida por advogado ou defensor publico sem a presenca de seu patrono violencia institucional incluido pela lei numero 14 321 de 2022",
+      "vigente": true,
+      "path": {
+        "livro": null,
+        "titulo": null,
+        "subtitulo": null,
+        "capitulo": "CAPÍTULO VI DOS CRIMES E DAS PENAS",
+        "secao": null,
+        "subsecao": null
+      },
+      "contexto": "CAPÍTULO VI DOS CRIMES E DAS PENAS",
+      "plate_content": [
+        {
+          "type": "p",
+          "children": [
+            {
+              "text": "Art. 15.",
+              "bold": true
+            },
+            {
+              "text": " Constranger a depor, sob ameaça de prisão, pessoa que, em razão de função, ministério, ofício ou profissão, deva guardar segredo ou resguardar sigilo:"
+            }
+          ],
+          "id": "2b4f3df3-71da-4ab8-826b-218fde8bd140",
+          "slug": "l16869-art-15",
+          "search_text": "artigo 15 constranger a depor sob ameaca de prisao pessoa que em razao de funcao ministerio oficio ou profissao deva guardar segredo ou resguardar sigilo"
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "text": "Pena - detenção, de 1 (um) a 4 (quatro) anos, e multa."
+            }
+          ],
+          "id": "7c209bec-851e-48f6-8e4d-7d906dcb835d",
+          "slug": null,
+          "search_text": "pena detencao de 1 um a 4 quatro anos e multa"
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "text": "Parágrafo único.",
+              "bold": true,
+              "strikethrough": true
+            },
+            {
+              "text": " (VETADO).",
+              "strikethrough": true
+            }
+          ],
+          "id": "cc8f1935-2667-4aaa-bf8a-ccdaa5ff9cfe",
+          "slug": "l16869-art-15-par-unico",
+          "search_text": "paragrafo unico vetado",
+          "indent": 1
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "text": "Parágrafo único.",
+              "bold": true
+            },
+            {
+              "text": " Incorre na mesma pena quem prossegue com o interrogatório: (Promulgação partes vetadas)"
+            }
+          ],
+          "id": "31a92b6d-1a88-475b-80aa-bda49c952328",
+          "slug": "l16869-art-15-par-unico",
+          "search_text": "paragrafo unico incorre na mesma pena quem prossegue com o interrogatorio promulgacao partes vetadas",
+          "indent": 1
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "text": "I - de pessoa que tenha decidido exercer o direito ao silêncio; ou"
+            }
+          ],
+          "id": "e4f7288f-1e71-40ab-a22f-436efe4c7125",
+          "slug": "l16869-art-15-par-unico-inc-i",
+          "search_text": "i de pessoa que tenha decidido exercer o direito ao silencio ou",
+          "indent": 2
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "text": "II - de pessoa que tenha optado por ser assistida por advogado ou defensor público, sem a presença de seu patrono."
+            }
+          ],
+          "id": "454df372-e9b4-4a98-8ed4-174f0485e585",
+          "slug": "l16869-art-15-par-unico-inc-ii",
+          "search_text": "ii de pessoa que tenha optado por ser assistida por advogado ou defensor publico sem a presenca de seu patrono",
+          "indent": 2
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "text": "Violência Institucional (Incluído pela Lei nº 14.321, de 2022)"
+            }
+          ],
+          "id": "82f8c9f8-2961-40c6-8545-be10fd8e5df4",
+          "slug": null,
+          "search_text": "violencia institucional incluido pela lei numero 14 321 de 2022",
+          "indent": 2
+        }
+      ],
+      "texto_plano": "CAPÍTULO VI DOS CRIMES E DAS PENAS | Art. 15. Constranger a depor, sob ameaça de prisão, pessoa que, em razão de função, ministério, ofício ou profissão, deva guardar segredo ou resguardar sigilo:\nPena - detenção, de 1 (um) a 4 (quatro) anos, e multa.\nParágrafo único. (VETADO).\nParágrafo único. Incorre na mesma pena quem prossegue com o interrogatório: (Promulgação partes vetadas)\nI - de pessoa que tenha decidido exercer o direito ao silêncio; ou\nII - de pessoa que tenha optado por ser assistida por advogado ou defensor público, sem a presença de seu patrono.\nViolência Institucional (Incluído pela Lei nº 14.321, de 2022)"
+    },
+    {
+      "id": "l16869-art-15-A",
+      "numero": "15-A",
+      "slug": "l16869-art-15-A",
+      "search_text": "artigo 15 a submeter a vitima de infracao penal ou a testemunha de crimes violentos a procedimentos desnecessarios repetitivos ou invasivos que a leve a reviver sem estrita necessidade incluido pela lei numero 14 321 de 2022 i a situacao de violencia ou incluido pela lei numero 14 321 de 2022 ii outras situacoes potencialmente geradoras de sofrimento ou estigmatizacao incluido pela lei numero 14 321 de 2022 pena detencao de 3 tres meses a 1 um ano e multa incluido pela lei numero 14 321 de 2022 1º se o agente publico permitir que terceiro intimide a vitima de crimes violentos gerando indevida revitimizacao aplica se a pena aumentada de 2 3 dois tercos incluido pela lei numero 14 321 de 2022 2º se o agente publico intimidar a vitima de crimes violentos gerando indevida revitimizacao aplica se a pena em dobro incluido pela lei numero 14 321 de 2022",
+      "vigente": true,
+      "path": {
+        "livro": null,
+        "titulo": null,
+        "subtitulo": null,
+        "capitulo": "CAPÍTULO VI DOS CRIMES E DAS PENAS",
+        "secao": null,
+        "subsecao": null
+      },
+      "contexto": "CAPÍTULO VI DOS CRIMES E DAS PENAS",
+      "plate_content": [
+        {
+          "type": "p",
+          "children": [
+            {
+              "text": "Art. 15-A.",
+              "bold": true
+            },
+            {
+              "text": " Submeter a vítima de infração penal ou a testemunha de crimes violentos a procedimentos desnecessários, repetitivos ou invasivos, que a leve a reviver, sem estrita necessidade: (Incluído pela Lei nº 14.321, de 2022)"
+            }
+          ],
+          "id": "669c15a2-011d-4bd5-bb80-c4adbc056f6e",
+          "slug": "l16869-art-15-A",
+          "search_text": "artigo 15 a submeter a vitima de infracao penal ou a testemunha de crimes violentos a procedimentos desnecessarios repetitivos ou invasivos que a leve a reviver sem estrita necessidade incluido pela lei numero 14 321 de 2022"
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "text": "I - a situação de violência; ou (Incluído pela Lei nº 14.321, de 2022)"
+            }
+          ],
+          "id": "248de8af-adfc-4b26-b397-60f530b45255",
+          "slug": "l16869-art-15-A-inc-i",
+          "search_text": "i a situacao de violencia ou incluido pela lei numero 14 321 de 2022",
+          "indent": 1
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "text": "II - outras situações potencialmente geradoras de sofrimento ou estigmatização: (Incluído pela Lei nº 14.321, de 2022)"
+            }
+          ],
+          "id": "5af9df94-f62a-491f-9735-925cd5fcab73",
+          "slug": "l16869-art-15-A-inc-ii",
+          "search_text": "ii outras situacoes potencialmente geradoras de sofrimento ou estigmatizacao incluido pela lei numero 14 321 de 2022",
+          "indent": 1
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "text": "Pena - detenção, de 3 (três) meses a 1 (um) ano, e multa. (Incluído pela Lei nº 14.321, de 2022)"
+            }
+          ],
+          "id": "03882e21-9ebe-4913-9cb0-8d7825625b39",
+          "slug": null,
+          "search_text": "pena detencao de 3 tres meses a 1 um ano e multa incluido pela lei numero 14 321 de 2022",
+          "indent": 1
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "text": "§ 1º",
+              "bold": true
+            },
+            {
+              "text": " Se o agente público permitir que terceiro intimide a vítima de crimes violentos, gerando indevida revitimização, aplica-se a pena aumentada de 2/3 (dois terços). (Incluído pela Lei nº 14.321, de 2022)"
+            }
+          ],
+          "id": "2f5aef22-c316-4ddb-8dbe-0249239dd1d1",
+          "slug": "l16869-art-15-A-par-1",
+          "search_text": "1º se o agente publico permitir que terceiro intimide a vitima de crimes violentos gerando indevida revitimizacao aplica se a pena aumentada de 2 3 dois tercos incluido pela lei numero 14 321 de 2022",
+          "indent": 1
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "text": "§ 2º",
+              "bold": true
+            },
+            {
+              "text": " Se o agente público intimidar a vítima de crimes violentos, gerando indevida revitimização, aplica-se a pena em dobro. (Incluído pela Lei nº 14.321, de 2022)"
+            }
+          ],
+          "id": "6cc4bc42-0a69-4e6c-90f0-ce15a503579f",
+          "slug": "l16869-art-15-A-par-2",
+          "search_text": "2º se o agente publico intimidar a vitima de crimes violentos gerando indevida revitimizacao aplica se a pena em dobro incluido pela lei numero 14 321 de 2022",
+          "indent": 1
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "text": "Art. 16. (VETADO)."
+            }
+          ],
+          "id": "851f3aa8-ec19-4416-9448-5c4f8f0d7491",
+          "slug": null,
+          "search_text": null
+        }
+      ],
+      "texto_plano": "CAPÍTULO VI DOS CRIMES E DAS PENAS | Art. 15-A. Submeter a vítima de infração penal ou a testemunha de crimes violentos a procedimentos desnecessários, repetitivos ou invasivos, que a leve a reviver, sem estrita necessidade: (Incluído pela Lei nº 14.321, de 2022)\nI - a situação de violência; ou (Incluído pela Lei nº 14.321, de 2022)\nII - outras situações potencialmente geradoras de sofrimento ou estigmatização: (Incluído pela Lei nº 14.321, de 2022)\nPena - detenção, de 3 (três) meses a 1 (um) ano, e multa. (Incluído pela Lei nº 14.321, de 2022)\n§ 1º Se o agente público permitir que terceiro intimide a vítima de crimes violentos, gerando indevida revitimização, aplica-se a pena aumentada de 2/3 (dois terços). (Incluído pela Lei nº 14.321, de 2022)\n§ 2º Se o agente público intimidar a vítima de crimes violentos, gerando indevida revitimização, aplica-se a pena em dobro. (Incluído pela Lei nº 14.321, de 2022)\nArt. 16. (VETADO)."
+    },
+    {
+      "id": "l16869-art-16",
+      "numero": "16",
+      "slug": "l16869-art-16",
+      "search_text": "artigo 16 deixar de identificar se ou identificar se falsamente ao preso por ocasiao de sua captura ou quando deva faze lo durante sua detencao ou prisao promulgacao partes vetadas pena detencao de 6 seis meses a 2 dois anos e multa paragrafo unico incorre na mesma pena quem como responsavel por interrogatorio em sede de procedimento investigatorio de infracao penal deixa de identificar se ao preso ou atribui a si mesmo falsa identidade cargo ou funcao",
+      "vigente": true,
+      "path": {
+        "livro": null,
+        "titulo": null,
+        "subtitulo": null,
+        "capitulo": "CAPÍTULO VI DOS CRIMES E DAS PENAS",
+        "secao": null,
+        "subsecao": null
+      },
+      "contexto": "CAPÍTULO VI DOS CRIMES E DAS PENAS",
+      "plate_content": [
+        {
+          "type": "p",
+          "children": [
+            {
+              "text": "Art. 16.",
+              "bold": true
+            },
+            {
+              "text": " Deixar de identificar-se ou identificar-se falsamente ao preso por ocasião de sua captura ou quando deva fazê-lo durante sua detenção ou prisão: (Promulgação partes vetadas)"
+            }
+          ],
+          "id": "30527106-9b7c-4529-a9d9-df2d0bb14aed",
+          "slug": "l16869-art-16",
+          "search_text": "artigo 16 deixar de identificar se ou identificar se falsamente ao preso por ocasiao de sua captura ou quando deva faze lo durante sua detencao ou prisao promulgacao partes vetadas"
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "text": "Pena - detenção, de 6 (seis) meses a 2 (dois) anos, e multa."
+            }
+          ],
+          "id": "f096bc13-e27b-4e7d-acb6-09779faf8c87",
+          "slug": null,
+          "search_text": "pena detencao de 6 seis meses a 2 dois anos e multa"
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "text": "Parágrafo único.",
+              "bold": true
+            },
+            {
+              "text": " Incorre na mesma pena quem, como responsável por interrogatório em sede de procedimento investigatório de infração penal, deixa de identificar-se ao preso ou atribui a si mesmo falsa identidade, cargo ou função."
+            }
+          ],
+          "id": "14a86bb0-0a7a-4dba-978f-d91393fa5439",
+          "slug": "l16869-art-16-par-unico",
+          "search_text": "paragrafo unico incorre na mesma pena quem como responsavel por interrogatorio em sede de procedimento investigatorio de infracao penal deixa de identificar se ao preso ou atribui a si mesmo falsa identidade cargo ou funcao",
+          "indent": 1
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "text": "Art. 17. (VETADO)."
+            }
+          ],
+          "id": "614ab18b-b52c-49a9-9f87-0d3c0bf93d6c",
+          "slug": null,
+          "search_text": null
+        }
+      ],
+      "texto_plano": "CAPÍTULO VI DOS CRIMES E DAS PENAS | Art. 16. Deixar de identificar-se ou identificar-se falsamente ao preso por ocasião de sua captura ou quando deva fazê-lo durante sua detenção ou prisão: (Promulgação partes vetadas)\nPena - detenção, de 6 (seis) meses a 2 (dois) anos, e multa.\nParágrafo único. Incorre na mesma pena quem, como responsável por interrogatório em sede de procedimento investigatório de infração penal, deixa de identificar-se ao preso ou atribui a si mesmo falsa identidade, cargo ou função.\nArt. 17. (VETADO)."
+    },
+    {
+      "id": "l16869-art-18",
+      "numero": "18",
+      "slug": "l16869-art-18",
+      "search_text": "artigo 18 submeter o preso a interrogatorio policial durante o periodo de repouso noturno salvo se capturado em flagrante delito ou se ele devidamente assistido consentir em prestar declaracoes pena detencao de 6 seis meses a 2 dois anos e multa",
+      "vigente": true,
+      "path": {
+        "livro": null,
+        "titulo": null,
+        "subtitulo": null,
+        "capitulo": "CAPÍTULO VI DOS CRIMES E DAS PENAS",
+        "secao": null,
+        "subsecao": null
+      },
+      "contexto": "CAPÍTULO VI DOS CRIMES E DAS PENAS",
+      "plate_content": [
+        {
+          "type": "p",
+          "children": [
+            {
+              "text": "Art. 18.",
+              "bold": true
+            },
+            {
+              "text": " Submeter o preso a interrogatório policial durante o período de repouso noturno, salvo se capturado em flagrante delito ou se ele, devidamente assistido, consentir em prestar declarações:"
+            }
+          ],
+          "id": "363cf003-a61f-4ee8-a933-51a3ce1ba427",
+          "slug": "l16869-art-18",
+          "search_text": "artigo 18 submeter o preso a interrogatorio policial durante o periodo de repouso noturno salvo se capturado em flagrante delito ou se ele devidamente assistido consentir em prestar declaracoes"
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "text": "Pena - detenção, de 6 (seis) meses a 2 (dois) anos, e multa."
+            }
+          ],
+          "id": "e189eba9-c8ee-4ab8-856d-e526e124c7f6",
+          "slug": null,
+          "search_text": "pena detencao de 6 seis meses a 2 dois anos e multa"
+        }
+      ],
+      "texto_plano": "CAPÍTULO VI DOS CRIMES E DAS PENAS | Art. 18. Submeter o preso a interrogatório policial durante o período de repouso noturno, salvo se capturado em flagrante delito ou se ele, devidamente assistido, consentir em prestar declarações:\nPena - detenção, de 6 (seis) meses a 2 (dois) anos, e multa."
+    },
+    {
+      "id": "l16869-art-19",
+      "numero": "19",
+      "slug": "l16869-art-19",
+      "search_text": "artigo 19 impedir ou retardar injustificadamente o envio de pleito de preso a autoridade judiciaria competente para a apreciacao da legalidade de sua prisao ou das circunstancias de sua custodia pena detencao de 1 um a 4 quatro anos e multa paragrafo unico incorre na mesma pena o magistrado que ciente do impedimento ou da demora deixa de tomar as providencias tendentes a sana lo ou nao sendo competente para decidir sobre a prisao deixa de enviar o pedido a autoridade judiciaria que o seja",
+      "vigente": true,
+      "path": {
+        "livro": null,
+        "titulo": null,
+        "subtitulo": null,
+        "capitulo": "CAPÍTULO VI DOS CRIMES E DAS PENAS",
+        "secao": null,
+        "subsecao": null
+      },
+      "contexto": "CAPÍTULO VI DOS CRIMES E DAS PENAS",
+      "plate_content": [
+        {
+          "type": "p",
+          "children": [
+            {
+              "text": "Art. 19.",
+              "bold": true
+            },
+            {
+              "text": " Impedir ou retardar, injustificadamente, o envio de pleito de preso à autoridade judiciária competente para a apreciação da legalidade de sua prisão ou das circunstâncias de sua custódia:"
+            }
+          ],
+          "id": "3e2d4675-baf1-4288-a5eb-a695882f5aa0",
+          "slug": "l16869-art-19",
+          "search_text": "artigo 19 impedir ou retardar injustificadamente o envio de pleito de preso a autoridade judiciaria competente para a apreciacao da legalidade de sua prisao ou das circunstancias de sua custodia"
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "text": "Pena - detenção, de 1 (um) a 4 (quatro) anos, e multa."
+            }
+          ],
+          "id": "bf249485-48ff-4628-a22a-86287ff2a109",
+          "slug": null,
+          "search_text": "pena detencao de 1 um a 4 quatro anos e multa"
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "text": "Parágrafo único.",
+              "bold": true
+            },
+            {
+              "text": " Incorre na mesma pena o magistrado que, ciente do impedimento ou da demora, deixa de tomar as providências tendentes a saná-lo ou, não sendo competente para decidir sobre a prisão, deixa de enviar o pedido à autoridade judiciária que o seja."
+            }
+          ],
+          "id": "f941ec1c-1821-41a1-8d87-b4db83432eb5",
+          "slug": "l16869-art-19-par-unico",
+          "search_text": "paragrafo unico incorre na mesma pena o magistrado que ciente do impedimento ou da demora deixa de tomar as providencias tendentes a sana lo ou nao sendo competente para decidir sobre a prisao deixa de enviar o pedido a autoridade judiciaria que o seja",
+          "indent": 1
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "text": "Art. 20. (VETADO)."
+            }
+          ],
+          "id": "ced743ed-1193-4971-97f5-9f9eacaa538e",
+          "slug": null,
+          "search_text": null
+        }
+      ],
+      "texto_plano": "CAPÍTULO VI DOS CRIMES E DAS PENAS | Art. 19. Impedir ou retardar, injustificadamente, o envio de pleito de preso à autoridade judiciária competente para a apreciação da legalidade de sua prisão ou das circunstâncias de sua custódia:\nPena - detenção, de 1 (um) a 4 (quatro) anos, e multa.\nParágrafo único. Incorre na mesma pena o magistrado que, ciente do impedimento ou da demora, deixa de tomar as providências tendentes a saná-lo ou, não sendo competente para decidir sobre a prisão, deixa de enviar o pedido à autoridade judiciária que o seja.\nArt. 20. (VETADO)."
+    },
+    {
+      "id": "l16869-art-20",
+      "numero": "20",
+      "slug": "l16869-art-20",
+      "search_text": "artigo 20 impedir sem justa causa a entrevista pessoal e reservada do preso com seu advogado promulgacao partes vetadas pena detencao de 6 seis meses a 2 dois anos e multa paragrafo unico incorre na mesma pena quem impede o preso o reu solto ou o investigado de entrevistar se pessoal e reservadamente com seu advogado ou defensor por prazo razoavel antes de audiencia judicial e de sentar se ao seu lado e com ele comunicar se durante a audiencia salvo numero curso de interrogatorio ou numero caso de audiencia realizada por videoconferencia",
+      "vigente": true,
+      "path": {
+        "livro": null,
+        "titulo": null,
+        "subtitulo": null,
+        "capitulo": "CAPÍTULO VI DOS CRIMES E DAS PENAS",
+        "secao": null,
+        "subsecao": null
+      },
+      "contexto": "CAPÍTULO VI DOS CRIMES E DAS PENAS",
+      "plate_content": [
+        {
+          "type": "p",
+          "children": [
+            {
+              "text": "Art. 20.",
+              "bold": true
+            },
+            {
+              "text": " Impedir, sem justa causa, a entrevista pessoal e reservada do preso com seu advogado: (Promulgação partes vetadas)"
+            }
+          ],
+          "id": "caaae02d-033e-4ca5-964d-5233f4e6afe5",
+          "slug": "l16869-art-20",
+          "search_text": "artigo 20 impedir sem justa causa a entrevista pessoal e reservada do preso com seu advogado promulgacao partes vetadas"
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "text": "Pena - detenção, de 6 (seis) meses a 2 (dois) anos, e multa."
+            }
+          ],
+          "id": "ef4d8dff-7035-4b6e-8b3d-bded62e71734",
+          "slug": null,
+          "search_text": "pena detencao de 6 seis meses a 2 dois anos e multa"
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "text": "Parágrafo único.",
+              "bold": true
+            },
+            {
+              "text": " Incorre na mesma pena quem impede o preso, o réu solto ou o investigado de entrevistar-se pessoal e reservadamente com seu advogado ou defensor, por prazo razoável, antes de audiência judicial, e de sentar-se ao seu lado e com ele comunicar-se durante a audiência, salvo no curso de interrogatório ou no caso de audiência realizada por videoconferência."
+            }
+          ],
+          "id": "f6fd2bcd-e3d4-457b-ba21-e5c7edddeea5",
+          "slug": "l16869-art-20-par-unico",
+          "search_text": "paragrafo unico incorre na mesma pena quem impede o preso o reu solto ou o investigado de entrevistar se pessoal e reservadamente com seu advogado ou defensor por prazo razoavel antes de audiencia judicial e de sentar se ao seu lado e com ele comunicar se durante a audiencia salvo numero curso de interrogatorio ou numero caso de audiencia realizada por videoconferencia",
+          "indent": 1
+        }
+      ],
+      "texto_plano": "CAPÍTULO VI DOS CRIMES E DAS PENAS | Art. 20. Impedir, sem justa causa, a entrevista pessoal e reservada do preso com seu advogado: (Promulgação partes vetadas)\nPena - detenção, de 6 (seis) meses a 2 (dois) anos, e multa.\nParágrafo único. Incorre na mesma pena quem impede o preso, o réu solto ou o investigado de entrevistar-se pessoal e reservadamente com seu advogado ou defensor, por prazo razoável, antes de audiência judicial, e de sentar-se ao seu lado e com ele comunicar-se durante a audiência, salvo no curso de interrogatório ou no caso de audiência realizada por videoconferência."
+    },
+    {
+      "id": "l16869-art-21",
+      "numero": "21",
+      "slug": "l16869-art-21",
+      "search_text": "artigo 21 manter presos de ambos os sexos na mesma cela ou espaco de confinamento pena detencao de 1 um a 4 quatro anos e multa paragrafo unico incorre na mesma pena quem mantem na mesma cela crianca ou adolescente na companhia de maior de idade ou em ambiente inadequado observado o disposto na lei numero 8 069 de 13 de julho de 1990 estatuto da crianca e do adolescente",
+      "vigente": true,
+      "path": {
+        "livro": null,
+        "titulo": null,
+        "subtitulo": null,
+        "capitulo": "CAPÍTULO VI DOS CRIMES E DAS PENAS",
+        "secao": null,
+        "subsecao": null
+      },
+      "contexto": "CAPÍTULO VI DOS CRIMES E DAS PENAS",
+      "plate_content": [
+        {
+          "type": "p",
+          "children": [
+            {
+              "text": "Art. 21.",
+              "bold": true
+            },
+            {
+              "text": " Manter presos de ambos os sexos na mesma cela ou espaço de confinamento:"
+            }
+          ],
+          "id": "93bc442c-38f1-489b-b085-73bb36589b44",
+          "slug": "l16869-art-21",
+          "search_text": "artigo 21 manter presos de ambos os sexos na mesma cela ou espaco de confinamento"
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "text": "Pena - detenção, de 1 (um) a 4 (quatro) anos, e multa."
+            }
+          ],
+          "id": "4e1ce992-c2eb-4181-88f9-9dce5c35af40",
+          "slug": null,
+          "search_text": "pena detencao de 1 um a 4 quatro anos e multa"
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "text": "Parágrafo único.",
+              "bold": true
+            },
+            {
+              "text": " Incorre na mesma pena quem mantém, na mesma cela, criança ou adolescente na companhia de maior de idade ou em ambiente inadequado, observado o disposto na Lei nº 8.069, de 13 de julho de 1990 (Estatuto da Criança e do Adolescente)."
+            }
+          ],
+          "id": "3f8c9d12-9b2f-49c5-a0c5-bad3c431bdd9",
+          "slug": "l16869-art-21-par-unico",
+          "search_text": "paragrafo unico incorre na mesma pena quem mantem na mesma cela crianca ou adolescente na companhia de maior de idade ou em ambiente inadequado observado o disposto na lei numero 8 069 de 13 de julho de 1990 estatuto da crianca e do adolescente",
+          "indent": 1
+        }
+      ],
+      "texto_plano": "CAPÍTULO VI DOS CRIMES E DAS PENAS | Art. 21. Manter presos de ambos os sexos na mesma cela ou espaço de confinamento:\nPena - detenção, de 1 (um) a 4 (quatro) anos, e multa.\nParágrafo único. Incorre na mesma pena quem mantém, na mesma cela, criança ou adolescente na companhia de maior de idade ou em ambiente inadequado, observado o disposto na Lei nº 8.069, de 13 de julho de 1990 (Estatuto da Criança e do Adolescente)."
+    },
+    {
+      "id": "l16869-art-22",
+      "numero": "22",
+      "slug": "l16869-art-22",
+      "search_text": "artigo 22 invadir ou adentrar clandestina ou astuciosamente ou a revelia da vontade do ocupante imovel alheio ou suas dependencias ou nele permanecer nas mesmas condicoes sem determinacao judicial ou fora das condicoes estabelecidas em lei pena detencao de 1 um a 4 quatro anos e multa 1º incorre na mesma pena na forma prevista numero caput deste artigo quem i coage alguem mediante violencia ou grave ameaca a franquear lhe o acesso a imovel ou suas dependencias ii vetado iii cumpre mandado de busca e apreensao domiciliar apos as 21h vinte e uma horas ou antes das 5h cinco horas 2º nao havera crime se o ingresso for para prestar socorro ou quando houver fundados indicios que indiquem a necessidade do ingresso em razao de situacao de flagrante delito ou de desastre",
+      "vigente": true,
+      "path": {
+        "livro": null,
+        "titulo": null,
+        "subtitulo": null,
+        "capitulo": "CAPÍTULO VI DOS CRIMES E DAS PENAS",
+        "secao": null,
+        "subsecao": null
+      },
+      "contexto": "CAPÍTULO VI DOS CRIMES E DAS PENAS",
+      "plate_content": [
+        {
+          "type": "p",
+          "children": [
+            {
+              "text": "Art. 22.",
+              "bold": true
+            },
+            {
+              "text": " Invadir ou adentrar, clandestina ou astuciosamente, ou à revelia da vontade do ocupante, imóvel alheio ou suas dependências, ou nele permanecer nas mesmas condições, sem determinação judicial ou fora das condições estabelecidas em lei:"
+            }
+          ],
+          "id": "2626968c-a8e8-4261-9340-ab511ae7de51",
+          "slug": "l16869-art-22",
+          "search_text": "artigo 22 invadir ou adentrar clandestina ou astuciosamente ou a revelia da vontade do ocupante imovel alheio ou suas dependencias ou nele permanecer nas mesmas condicoes sem determinacao judicial ou fora das condicoes estabelecidas em lei"
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "text": "Pena - detenção, de 1 (um) a 4 (quatro) anos, e multa."
+            }
+          ],
+          "id": "1d17444f-4e5f-4448-8e1b-242c1ee80f52",
+          "slug": null,
+          "search_text": "pena detencao de 1 um a 4 quatro anos e multa"
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "text": "§ 1º",
+              "bold": true
+            },
+            {
+              "text": " Incorre na mesma pena, na forma prevista no caput deste artigo, quem:"
+            }
+          ],
+          "id": "cfd2ccc7-72fa-46b0-ad97-54d9dc1f316b",
+          "slug": "l16869-art-22-par-1",
+          "search_text": "1º incorre na mesma pena na forma prevista numero caput deste artigo quem",
+          "indent": 1
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "text": "I - coage alguém, mediante violência ou grave ameaça, a franquear-lhe o acesso a imóvel ou suas dependências;"
+            }
+          ],
+          "id": "bd6b36c0-352a-46be-bce4-7a83f68c0608",
+          "slug": "l16869-art-22-par-1-inc-i",
+          "search_text": "i coage alguem mediante violencia ou grave ameaca a franquear lhe o acesso a imovel ou suas dependencias",
+          "indent": 2
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "text": "II - (VETADO);",
+              "strikethrough": true
+            }
+          ],
+          "id": "422d478d-c179-41c9-9041-70d5727a8dc0",
+          "slug": "l16869-art-22-par-1-inc-ii",
+          "search_text": "ii vetado",
+          "indent": 2
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "text": "III - cumpre mandado de busca e apreensão domiciliar após as 21h (vinte e uma horas) ou antes das 5h (cinco horas)."
+            }
+          ],
+          "id": "0f004858-5de8-42a8-8570-1cc3579710e4",
+          "slug": "l16869-art-22-par-1-inc-iii",
+          "search_text": "iii cumpre mandado de busca e apreensao domiciliar apos as 21h vinte e uma horas ou antes das 5h cinco horas",
+          "indent": 2
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "text": "§ 2º",
+              "bold": true
+            },
+            {
+              "text": " Não haverá crime se o ingresso for para prestar socorro, ou quando houver fundados indícios que indiquem a necessidade do ingresso em razão de situação de flagrante delito ou de desastre."
+            }
+          ],
+          "id": "bcc83b6a-65d7-4ca8-8737-6cdd7d72d35a",
+          "slug": "l16869-art-22-par-2",
+          "search_text": "2º nao havera crime se o ingresso for para prestar socorro ou quando houver fundados indicios que indiquem a necessidade do ingresso em razao de situacao de flagrante delito ou de desastre",
+          "indent": 1
+        }
+      ],
+      "texto_plano": "CAPÍTULO VI DOS CRIMES E DAS PENAS | Art. 22. Invadir ou adentrar, clandestina ou astuciosamente, ou à revelia da vontade do ocupante, imóvel alheio ou suas dependências, ou nele permanecer nas mesmas condições, sem determinação judicial ou fora das condições estabelecidas em lei:\nPena - detenção, de 1 (um) a 4 (quatro) anos, e multa.\n§ 1º Incorre na mesma pena, na forma prevista no caput deste artigo, quem:\nI - coage alguém, mediante violência ou grave ameaça, a franquear-lhe o acesso a imóvel ou suas dependências;\nII - (VETADO);\nIII - cumpre mandado de busca e apreensão domiciliar após as 21h (vinte e uma horas) ou antes das 5h (cinco horas).\n§ 2º Não haverá crime se o ingresso for para prestar socorro, ou quando houver fundados indícios que indiquem a necessidade do ingresso em razão de situação de flagrante delito ou de desastre."
+    },
+    {
+      "id": "l16869-art-23",
+      "numero": "23",
+      "slug": "l16869-art-23",
+      "search_text": "artigo 23 inovar artificiosamente numero curso de diligencia de investigacao ou de processo o estado de lugar de coisa ou de pessoa com o fim de eximir se de responsabilidade ou de responsabilizar criminalmente alguem ou agravar lhe a responsabilidade pena detencao de 1 um a 4 quatro anos e multa paragrafo unico incorre na mesma pena quem pratica a conduta com o intuito de i eximir se de responsabilidade civil ou administrativa por excesso praticado numero curso de diligencia ii omitir dados ou informacoes ou divulgar dados ou informacoes incompletos para desviar o curso da investigacao da diligencia ou do processo",
+      "vigente": true,
+      "path": {
+        "livro": null,
+        "titulo": null,
+        "subtitulo": null,
+        "capitulo": "CAPÍTULO VI DOS CRIMES E DAS PENAS",
+        "secao": null,
+        "subsecao": null
+      },
+      "contexto": "CAPÍTULO VI DOS CRIMES E DAS PENAS",
+      "plate_content": [
+        {
+          "type": "p",
+          "children": [
+            {
+              "text": "Art. 23.",
+              "bold": true
+            },
+            {
+              "text": " Inovar artificiosamente, no curso de diligência, de investigação ou de processo, o estado de lugar, de coisa ou de pessoa, com o fim de eximir-se de responsabilidade ou de responsabilizar criminalmente alguém ou agravar-lhe a responsabilidade:"
+            }
+          ],
+          "id": "8af6527b-236c-4423-baf5-4dd947371a73",
+          "slug": "l16869-art-23",
+          "search_text": "artigo 23 inovar artificiosamente numero curso de diligencia de investigacao ou de processo o estado de lugar de coisa ou de pessoa com o fim de eximir se de responsabilidade ou de responsabilizar criminalmente alguem ou agravar lhe a responsabilidade"
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "text": "Pena - detenção, de 1 (um) a 4 (quatro) anos, e multa."
+            }
+          ],
+          "id": "3b952000-5618-4ba0-a97a-9352d978d1ed",
+          "slug": null,
+          "search_text": "pena detencao de 1 um a 4 quatro anos e multa"
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "text": "Parágrafo único.",
+              "bold": true
+            },
+            {
+              "text": " Incorre na mesma pena quem pratica a conduta com o intuito de:"
+            }
+          ],
+          "id": "80de010f-5faa-4556-b535-21d7c379e81d",
+          "slug": "l16869-art-23-par-unico",
+          "search_text": "paragrafo unico incorre na mesma pena quem pratica a conduta com o intuito de",
+          "indent": 1
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "text": "I - eximir-se de responsabilidade civil ou administrativa por excesso praticado no curso de diligência;"
+            }
+          ],
+          "id": "ae85faf0-3260-49b9-9a97-0669bec89454",
+          "slug": "l16869-art-23-par-unico-inc-i",
+          "search_text": "i eximir se de responsabilidade civil ou administrativa por excesso praticado numero curso de diligencia",
+          "indent": 2
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "text": "II - omitir dados ou informações ou divulgar dados ou informações incompletos para desviar o curso da investigação, da diligência ou do processo."
+            }
+          ],
+          "id": "cf907a34-c880-4344-ac52-f1ceda36b124",
+          "slug": "l16869-art-23-par-unico-inc-ii",
+          "search_text": "ii omitir dados ou informacoes ou divulgar dados ou informacoes incompletos para desviar o curso da investigacao da diligencia ou do processo",
+          "indent": 2
+        }
+      ],
+      "texto_plano": "CAPÍTULO VI DOS CRIMES E DAS PENAS | Art. 23. Inovar artificiosamente, no curso de diligência, de investigação ou de processo, o estado de lugar, de coisa ou de pessoa, com o fim de eximir-se de responsabilidade ou de responsabilizar criminalmente alguém ou agravar-lhe a responsabilidade:\nPena - detenção, de 1 (um) a 4 (quatro) anos, e multa.\nParágrafo único. Incorre na mesma pena quem pratica a conduta com o intuito de:\nI - eximir-se de responsabilidade civil ou administrativa por excesso praticado no curso de diligência;\nII - omitir dados ou informações ou divulgar dados ou informações incompletos para desviar o curso da investigação, da diligência ou do processo."
+    },
+    {
+      "id": "l16869-art-24",
+      "numero": "24",
+      "slug": "l16869-art-24",
+      "search_text": "artigo 24 constranger sob violencia ou grave ameaca funcionario ou empregado de instituicao hospitalar publica ou privada a admitir para tratamento pessoa cujo obito ja tenha ocorrido com o fim de alterar local ou momento de crime prejudicando sua apuracao pena detencao de 1 um a 4 quatro anos e multa alem da pena correspondente a violencia",
+      "vigente": true,
+      "path": {
+        "livro": null,
+        "titulo": null,
+        "subtitulo": null,
+        "capitulo": "CAPÍTULO VI DOS CRIMES E DAS PENAS",
+        "secao": null,
+        "subsecao": null
+      },
+      "contexto": "CAPÍTULO VI DOS CRIMES E DAS PENAS",
+      "plate_content": [
+        {
+          "type": "p",
+          "children": [
+            {
+              "text": "Art. 24.",
+              "bold": true
+            },
+            {
+              "text": " Constranger, sob violência ou grave ameaça, funcionário ou empregado de instituição hospitalar pública ou privada a admitir para tratamento pessoa cujo óbito já tenha ocorrido, com o fim de alterar local ou momento de crime, prejudicando sua apuração:"
+            }
+          ],
+          "id": "9eba0299-fe60-4964-8e31-2619465abe2c",
+          "slug": "l16869-art-24",
+          "search_text": "artigo 24 constranger sob violencia ou grave ameaca funcionario ou empregado de instituicao hospitalar publica ou privada a admitir para tratamento pessoa cujo obito ja tenha ocorrido com o fim de alterar local ou momento de crime prejudicando sua apuracao"
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "text": "Pena - detenção, de 1 (um) a 4 (quatro) anos, e multa, além da pena correspondente à violência."
+            }
+          ],
+          "id": "8de31dc8-7b22-4ef2-ad70-6be345bcc137",
+          "slug": null,
+          "search_text": "pena detencao de 1 um a 4 quatro anos e multa alem da pena correspondente a violencia"
+        }
+      ],
+      "texto_plano": "CAPÍTULO VI DOS CRIMES E DAS PENAS | Art. 24. Constranger, sob violência ou grave ameaça, funcionário ou empregado de instituição hospitalar pública ou privada a admitir para tratamento pessoa cujo óbito já tenha ocorrido, com o fim de alterar local ou momento de crime, prejudicando sua apuração:\nPena - detenção, de 1 (um) a 4 (quatro) anos, e multa, além da pena correspondente à violência."
+    },
+    {
+      "id": "l16869-art-25",
+      "numero": "25",
+      "slug": "l16869-art-25",
+      "search_text": "artigo 25 proceder a obtencao de prova em procedimento de investigacao ou fiscalizacao por meio manifestamente ilicito pena detencao de 1 um a 4 quatro anos e multa paragrafo unico incorre na mesma pena quem faz uso de prova em desfavor do investigado ou fiscalizado com previo conhecimento de sua ilicitude",
+      "vigente": true,
+      "path": {
+        "livro": null,
+        "titulo": null,
+        "subtitulo": null,
+        "capitulo": "CAPÍTULO VI DOS CRIMES E DAS PENAS",
+        "secao": null,
+        "subsecao": null
+      },
+      "contexto": "CAPÍTULO VI DOS CRIMES E DAS PENAS",
+      "plate_content": [
+        {
+          "type": "p",
+          "children": [
+            {
+              "text": "Art. 25.",
+              "bold": true
+            },
+            {
+              "text": " Proceder à obtenção de prova, em procedimento de investigação ou fiscalização, por meio manifestamente ilícito:"
+            }
+          ],
+          "id": "75096c8f-701e-4c97-823e-3cf658507296",
+          "slug": "l16869-art-25",
+          "search_text": "artigo 25 proceder a obtencao de prova em procedimento de investigacao ou fiscalizacao por meio manifestamente ilicito"
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "text": "Pena - detenção, de 1 (um) a 4 (quatro) anos, e multa."
+            }
+          ],
+          "id": "f60aa7bc-ed3d-4de1-b5f3-e858061129c1",
+          "slug": null,
+          "search_text": "pena detencao de 1 um a 4 quatro anos e multa"
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "text": "Parágrafo único.",
+              "bold": true
+            },
+            {
+              "text": " Incorre na mesma pena quem faz uso de prova, em desfavor do investigado ou fiscalizado, com prévio conhecimento de sua ilicitude."
+            }
+          ],
+          "id": "16ce9b5c-7fbb-4de4-9c87-8149fea0e195",
+          "slug": "l16869-art-25-par-unico",
+          "search_text": "paragrafo unico incorre na mesma pena quem faz uso de prova em desfavor do investigado ou fiscalizado com previo conhecimento de sua ilicitude",
+          "indent": 1
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "text": "Art. 26. (VETADO)."
+            }
+          ],
+          "id": "13b5d74c-46c4-48fd-b3cc-aca590b00c27",
+          "slug": null,
+          "search_text": null
+        }
+      ],
+      "texto_plano": "CAPÍTULO VI DOS CRIMES E DAS PENAS | Art. 25. Proceder à obtenção de prova, em procedimento de investigação ou fiscalização, por meio manifestamente ilícito:\nPena - detenção, de 1 (um) a 4 (quatro) anos, e multa.\nParágrafo único. Incorre na mesma pena quem faz uso de prova, em desfavor do investigado ou fiscalizado, com prévio conhecimento de sua ilicitude.\nArt. 26. (VETADO)."
+    },
+    {
+      "id": "l16869-art-27",
+      "numero": "27",
+      "slug": "l16869-art-27",
+      "search_text": "artigo 27 requisitar instauracao ou instaurar procedimento investigatorio de infracao penal ou administrativa em desfavor de alguem a falta de qualquer indicio da pratica de crime de ilicito funcional ou de infracao administrativa vide adin 6234 vide adin 6240 pena detencao de 6 seis meses a 2 dois anos e multa paragrafo unico nao ha crime quando se tratar de sindicancia ou investigacao preliminar sumaria devidamente justificada",
+      "vigente": true,
+      "path": {
+        "livro": null,
+        "titulo": null,
+        "subtitulo": null,
+        "capitulo": "CAPÍTULO VI DOS CRIMES E DAS PENAS",
+        "secao": null,
+        "subsecao": null
+      },
+      "contexto": "CAPÍTULO VI DOS CRIMES E DAS PENAS",
+      "plate_content": [
+        {
+          "type": "p",
+          "children": [
+            {
+              "text": "Art. 27.",
+              "bold": true
+            },
+            {
+              "text": " Requisitar instauração ou instaurar procedimento investigatório de infração penal ou administrativa, em desfavor de alguém, à falta de qualquer indício da prática de crime, de ilícito funcional ou de infração administrativa: (Vide ADIN 6234) (Vide ADIN 6240)"
+            }
+          ],
+          "id": "cbb0dc71-9e07-4f24-bf5e-02c5d3249f12",
+          "slug": "l16869-art-27",
+          "search_text": "artigo 27 requisitar instauracao ou instaurar procedimento investigatorio de infracao penal ou administrativa em desfavor de alguem a falta de qualquer indicio da pratica de crime de ilicito funcional ou de infracao administrativa vide adin 6234 vide adin 6240"
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "text": "Pena - detenção, de 6 (seis) meses a 2 (dois) anos, e multa."
+            }
+          ],
+          "id": "ed24a81d-2ace-4c11-a1b5-1e2ff235d236",
+          "slug": null,
+          "search_text": "pena detencao de 6 seis meses a 2 dois anos e multa"
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "text": "Parágrafo único.",
+              "bold": true
+            },
+            {
+              "text": " Não há crime quando se tratar de sindicância ou investigação preliminar sumária, devidamente justificada."
+            }
+          ],
+          "id": "53cec41a-52b1-4d14-8272-b73c923c228d",
+          "slug": "l16869-art-27-par-unico",
+          "search_text": "paragrafo unico nao ha crime quando se tratar de sindicancia ou investigacao preliminar sumaria devidamente justificada",
+          "indent": 1
+        }
+      ],
+      "texto_plano": "CAPÍTULO VI DOS CRIMES E DAS PENAS | Art. 27. Requisitar instauração ou instaurar procedimento investigatório de infração penal ou administrativa, em desfavor de alguém, à falta de qualquer indício da prática de crime, de ilícito funcional ou de infração administrativa: (Vide ADIN 6234) (Vide ADIN 6240)\nPena - detenção, de 6 (seis) meses a 2 (dois) anos, e multa.\nParágrafo único. Não há crime quando se tratar de sindicância ou investigação preliminar sumária, devidamente justificada."
+    },
+    {
+      "id": "l16869-art-28",
+      "numero": "28",
+      "slug": "l16869-art-28",
+      "search_text": "artigo 28 divulgar gravacao ou trecho de gravacao sem relacao com a prova que se pretenda produzir expondo a intimidade ou a vida privada ou ferindo a honra ou a imagem do investigado ou acusado pena detencao de 1 um a 4 quatro anos e multa",
+      "vigente": true,
+      "path": {
+        "livro": null,
+        "titulo": null,
+        "subtitulo": null,
+        "capitulo": "CAPÍTULO VI DOS CRIMES E DAS PENAS",
+        "secao": null,
+        "subsecao": null
+      },
+      "contexto": "CAPÍTULO VI DOS CRIMES E DAS PENAS",
+      "plate_content": [
+        {
+          "type": "p",
+          "children": [
+            {
+              "text": "Art. 28.",
+              "bold": true
+            },
+            {
+              "text": " Divulgar gravação ou trecho de gravação sem relação com a prova que se pretenda produzir, expondo a intimidade ou a vida privada ou ferindo a honra ou a imagem do investigado ou acusado:"
+            }
+          ],
+          "id": "1029f033-50b5-4f3b-ab28-5681a370415b",
+          "slug": "l16869-art-28",
+          "search_text": "artigo 28 divulgar gravacao ou trecho de gravacao sem relacao com a prova que se pretenda produzir expondo a intimidade ou a vida privada ou ferindo a honra ou a imagem do investigado ou acusado"
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "text": "Pena - detenção, de 1 (um) a 4 (quatro) anos, e multa."
+            }
+          ],
+          "id": "1c83d808-52b8-4c9f-8257-24c353e0445a",
+          "slug": null,
+          "search_text": "pena detencao de 1 um a 4 quatro anos e multa"
+        }
+      ],
+      "texto_plano": "CAPÍTULO VI DOS CRIMES E DAS PENAS | Art. 28. Divulgar gravação ou trecho de gravação sem relação com a prova que se pretenda produzir, expondo a intimidade ou a vida privada ou ferindo a honra ou a imagem do investigado ou acusado:\nPena - detenção, de 1 (um) a 4 (quatro) anos, e multa."
+    },
+    {
+      "id": "l16869-art-29",
+      "numero": "29",
+      "slug": "l16869-art-29",
+      "search_text": "artigo 29 prestar informacao falsa sobre procedimento judicial policial fiscal ou administrativo com o fim de prejudicar interesse de investigado vide adin 6234 vide adin 6240 pena detencao de 6 seis meses a 2 dois anos e multa paragrafo unico vetado",
+      "vigente": true,
+      "path": {
+        "livro": null,
+        "titulo": null,
+        "subtitulo": null,
+        "capitulo": "CAPÍTULO VI DOS CRIMES E DAS PENAS",
+        "secao": null,
+        "subsecao": null
+      },
+      "contexto": "CAPÍTULO VI DOS CRIMES E DAS PENAS",
+      "plate_content": [
+        {
+          "type": "p",
+          "children": [
+            {
+              "text": "Art. 29.",
+              "bold": true
+            },
+            {
+              "text": " Prestar informação falsa sobre procedimento judicial, policial, fiscal ou administrativo com o fim de prejudicar interesse de investigado: (Vide ADIN 6234) (Vide ADIN 6240)"
+            }
+          ],
+          "id": "219cb3dc-505d-481b-ae7f-17653f39135f",
+          "slug": "l16869-art-29",
+          "search_text": "artigo 29 prestar informacao falsa sobre procedimento judicial policial fiscal ou administrativo com o fim de prejudicar interesse de investigado vide adin 6234 vide adin 6240"
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "text": "Pena - detenção, de 6 (seis) meses a 2 (dois) anos, e multa."
+            }
+          ],
+          "id": "b5b7ebf2-d233-41d2-b33e-ab949de06e96",
+          "slug": null,
+          "search_text": "pena detencao de 6 seis meses a 2 dois anos e multa"
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "text": "Parágrafo único.",
+              "bold": true,
+              "strikethrough": true
+            },
+            {
+              "text": " (VETADO).",
+              "strikethrough": true
+            }
+          ],
+          "id": "393c8dac-3933-4084-bcc5-9bcf8630c719",
+          "slug": "l16869-art-29-par-unico",
+          "search_text": "paragrafo unico vetado",
+          "indent": 1
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "text": "Art. 30. (VETADO)."
+            }
+          ],
+          "id": "3b74a5e4-4ccb-4034-894b-110351fa9700",
+          "slug": null,
+          "search_text": null
+        }
+      ],
+      "texto_plano": "CAPÍTULO VI DOS CRIMES E DAS PENAS | Art. 29. Prestar informação falsa sobre procedimento judicial, policial, fiscal ou administrativo com o fim de prejudicar interesse de investigado: (Vide ADIN 6234) (Vide ADIN 6240)\nPena - detenção, de 6 (seis) meses a 2 (dois) anos, e multa.\nParágrafo único. (VETADO).\nArt. 30. (VETADO)."
+    },
+    {
+      "id": "l16869-art-30",
+      "numero": "30",
+      "slug": "l16869-art-30",
+      "search_text": "artigo 30 dar inicio ou proceder a persecucao penal civil ou administrativa sem justa causa fundamentada ou contra quem sabe inocente promulgacao partes vetadas pena detencao de 1 um a 4 quatro anos e multa",
+      "vigente": true,
+      "path": {
+        "livro": null,
+        "titulo": null,
+        "subtitulo": null,
+        "capitulo": "CAPÍTULO VI DOS CRIMES E DAS PENAS",
+        "secao": null,
+        "subsecao": null
+      },
+      "contexto": "CAPÍTULO VI DOS CRIMES E DAS PENAS",
+      "plate_content": [
+        {
+          "type": "p",
+          "children": [
+            {
+              "text": "Art. 30.",
+              "bold": true
+            },
+            {
+              "text": " Dar início ou proceder à persecução penal, civil ou administrativa sem justa causa fundamentada ou contra quem sabe inocente: (Promulgação partes vetadas)"
+            }
+          ],
+          "id": "27c75f51-98f0-4035-abf7-c754ee17a93a",
+          "slug": "l16869-art-30",
+          "search_text": "artigo 30 dar inicio ou proceder a persecucao penal civil ou administrativa sem justa causa fundamentada ou contra quem sabe inocente promulgacao partes vetadas"
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "text": "Pena - detenção, de 1 (um) a 4 (quatro) anos, e multa."
+            }
+          ],
+          "id": "b34956a0-48d5-4807-a31b-a8d352bd4b80",
+          "slug": null,
+          "search_text": "pena detencao de 1 um a 4 quatro anos e multa"
+        }
+      ],
+      "texto_plano": "CAPÍTULO VI DOS CRIMES E DAS PENAS | Art. 30. Dar início ou proceder à persecução penal, civil ou administrativa sem justa causa fundamentada ou contra quem sabe inocente: (Promulgação partes vetadas)\nPena - detenção, de 1 (um) a 4 (quatro) anos, e multa."
+    },
+    {
+      "id": "l16869-art-31",
+      "numero": "31",
+      "slug": "l16869-art-31",
+      "search_text": "artigo 31 estender injustificadamente a investigacao procrastinando a em prejuizo do investigado ou fiscalizado vide adin 6234 vide adin 6240 pena detencao de 6 seis meses a 2 dois anos e multa paragrafo unico incorre na mesma pena quem inexistindo prazo para execucao ou conclusao de procedimento o estende de forma imotivada procrastinando o em prejuizo do investigado ou do fiscalizado",
+      "vigente": true,
+      "path": {
+        "livro": null,
+        "titulo": null,
+        "subtitulo": null,
+        "capitulo": "CAPÍTULO VI DOS CRIMES E DAS PENAS",
+        "secao": null,
+        "subsecao": null
+      },
+      "contexto": "CAPÍTULO VI DOS CRIMES E DAS PENAS",
+      "plate_content": [
+        {
+          "type": "p",
+          "children": [
+            {
+              "text": "Art. 31.",
+              "bold": true
+            },
+            {
+              "text": " Estender injustificadamente a investigação, procrastinando-a em prejuízo do investigado ou fiscalizado: (Vide ADIN 6234) (Vide ADIN 6240)"
+            }
+          ],
+          "id": "aa45b138-dd7c-49d5-b88f-d393ef91263d",
+          "slug": "l16869-art-31",
+          "search_text": "artigo 31 estender injustificadamente a investigacao procrastinando a em prejuizo do investigado ou fiscalizado vide adin 6234 vide adin 6240"
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "text": "Pena - detenção, de 6 (seis) meses a 2 (dois) anos, e multa."
+            }
+          ],
+          "id": "64897fb5-b89c-4726-9713-47726051f21b",
+          "slug": null,
+          "search_text": "pena detencao de 6 seis meses a 2 dois anos e multa"
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "text": "Parágrafo único.",
+              "bold": true
+            },
+            {
+              "text": " Incorre na mesma pena quem, inexistindo prazo para execução ou conclusão de procedimento, o estende de forma imotivada, procrastinando-o em prejuízo do investigado ou do fiscalizado."
+            }
+          ],
+          "id": "e7154f2c-c497-4ef6-a043-060252b22ae6",
+          "slug": "l16869-art-31-par-unico",
+          "search_text": "paragrafo unico incorre na mesma pena quem inexistindo prazo para execucao ou conclusao de procedimento o estende de forma imotivada procrastinando o em prejuizo do investigado ou do fiscalizado",
+          "indent": 1
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "text": "Art. 32. (VETADO)."
+            }
+          ],
+          "id": "a6a2f6c1-fc53-465c-854d-6e74a877de2c",
+          "slug": null,
+          "search_text": null
+        }
+      ],
+      "texto_plano": "CAPÍTULO VI DOS CRIMES E DAS PENAS | Art. 31. Estender injustificadamente a investigação, procrastinando-a em prejuízo do investigado ou fiscalizado: (Vide ADIN 6234) (Vide ADIN 6240)\nPena - detenção, de 6 (seis) meses a 2 (dois) anos, e multa.\nParágrafo único. Incorre na mesma pena quem, inexistindo prazo para execução ou conclusão de procedimento, o estende de forma imotivada, procrastinando-o em prejuízo do investigado ou do fiscalizado.\nArt. 32. (VETADO)."
+    },
+    {
+      "id": "l16869-art-32",
+      "numero": "32",
+      "slug": "l16869-art-32",
+      "search_text": "artigo 32 negar ao interessado seu defensor ou advogado acesso aos autos de investigacao preliminar ao termo circunstanciado ao inquerito ou a qualquer outro procedimento investigatorio de infracao penal civil ou administrativa assim como impedir a obtencao de copias ressalvado o acesso a pecas relativas a diligencias em curso ou que indiquem a realizacao de diligencias futuras cujo sigilo seja imprescindivel promulgacao partes vetadas pena detencao de 6 seis meses a 2 dois anos e multa",
+      "vigente": true,
+      "path": {
+        "livro": null,
+        "titulo": null,
+        "subtitulo": null,
+        "capitulo": "CAPÍTULO VI DOS CRIMES E DAS PENAS",
+        "secao": null,
+        "subsecao": null
+      },
+      "contexto": "CAPÍTULO VI DOS CRIMES E DAS PENAS",
+      "plate_content": [
+        {
+          "type": "p",
+          "children": [
+            {
+              "text": "Art. 32.",
+              "bold": true
+            },
+            {
+              "text": " Negar ao interessado, seu defensor ou advogado acesso aos autos de investigação preliminar, ao termo circunstanciado, ao inquérito ou a qualquer outro procedimento investigatório de infração penal, civil ou administrativa, assim como impedir a obtenção de cópias, ressalvado o acesso a peças relativas a diligências em curso, ou que indiquem a realização de diligências futuras, cujo sigilo seja imprescindível: (Promulgação partes vetadas)"
+            }
+          ],
+          "id": "8899f95b-0416-4d0b-9984-735f6a78530b",
+          "slug": "l16869-art-32",
+          "search_text": "artigo 32 negar ao interessado seu defensor ou advogado acesso aos autos de investigacao preliminar ao termo circunstanciado ao inquerito ou a qualquer outro procedimento investigatorio de infracao penal civil ou administrativa assim como impedir a obtencao de copias ressalvado o acesso a pecas relativas a diligencias em curso ou que indiquem a realizacao de diligencias futuras cujo sigilo seja imprescindivel promulgacao partes vetadas"
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "text": "Pena - detenção, de 6 (seis) meses a 2 (dois) anos, e multa."
+            }
+          ],
+          "id": "72c87e67-0085-4e65-84ae-0d5e466ba5f2",
+          "slug": null,
+          "search_text": "pena detencao de 6 seis meses a 2 dois anos e multa"
+        }
+      ],
+      "texto_plano": "CAPÍTULO VI DOS CRIMES E DAS PENAS | Art. 32. Negar ao interessado, seu defensor ou advogado acesso aos autos de investigação preliminar, ao termo circunstanciado, ao inquérito ou a qualquer outro procedimento investigatório de infração penal, civil ou administrativa, assim como impedir a obtenção de cópias, ressalvado o acesso a peças relativas a diligências em curso, ou que indiquem a realização de diligências futuras, cujo sigilo seja imprescindível: (Promulgação partes vetadas)\nPena - detenção, de 6 (seis) meses a 2 (dois) anos, e multa."
+    },
+    {
+      "id": "l16869-art-33",
+      "numero": "33",
+      "slug": "l16869-art-33",
+      "search_text": "artigo 33 exigir informacao ou cumprimento de obrigacao inclusive o dever de fazer ou de nao fazer sem expresso amparo legal pena detencao de 6 seis meses a 2 dois anos e multa paragrafo unico incorre na mesma pena quem se utiliza de cargo ou funcao publica ou invoca a condicao de agente publico para se eximir de obrigacao legal ou para obter vantagem ou privilegio indevido",
+      "vigente": true,
+      "path": {
+        "livro": null,
+        "titulo": null,
+        "subtitulo": null,
+        "capitulo": "CAPÍTULO VI DOS CRIMES E DAS PENAS",
+        "secao": null,
+        "subsecao": null
+      },
+      "contexto": "CAPÍTULO VI DOS CRIMES E DAS PENAS",
+      "plate_content": [
+        {
+          "type": "p",
+          "children": [
+            {
+              "text": "Art. 33.",
+              "bold": true
+            },
+            {
+              "text": " Exigir informação ou cumprimento de obrigação, inclusive o dever de fazer ou de não fazer, sem expresso amparo legal:"
+            }
+          ],
+          "id": "a431bfdd-a0a5-479f-a8d3-7b27f80f3a2a",
+          "slug": "l16869-art-33",
+          "search_text": "artigo 33 exigir informacao ou cumprimento de obrigacao inclusive o dever de fazer ou de nao fazer sem expresso amparo legal"
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "text": "Pena - detenção, de 6 (seis) meses a 2 (dois) anos, e multa."
+            }
+          ],
+          "id": "87024458-6cde-4999-9193-6218fc30398f",
+          "slug": null,
+          "search_text": "pena detencao de 6 seis meses a 2 dois anos e multa"
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "text": "Parágrafo único.",
+              "bold": true
+            },
+            {
+              "text": " Incorre na mesma pena quem se utiliza de cargo ou função pública ou invoca a condição de agente público para se eximir de obrigação legal ou para obter vantagem ou privilégio indevido."
+            }
+          ],
+          "id": "15406808-739f-458a-84b4-93183a3d6f53",
+          "slug": "l16869-art-33-par-unico",
+          "search_text": "paragrafo unico incorre na mesma pena quem se utiliza de cargo ou funcao publica ou invoca a condicao de agente publico para se eximir de obrigacao legal ou para obter vantagem ou privilegio indevido",
+          "indent": 1
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "text": "Art. 34. (VETADO)."
+            }
+          ],
+          "id": "d39da40d-7226-4112-9280-8fa8c53014e8",
+          "slug": null,
+          "search_text": null
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "text": "Art. 35. (VETADO)."
+            }
+          ],
+          "id": "bda4f96b-ac9b-490b-8c39-340a3e414ff1",
+          "slug": null,
+          "search_text": null
+        }
+      ],
+      "texto_plano": "CAPÍTULO VI DOS CRIMES E DAS PENAS | Art. 33. Exigir informação ou cumprimento de obrigação, inclusive o dever de fazer ou de não fazer, sem expresso amparo legal:\nPena - detenção, de 6 (seis) meses a 2 (dois) anos, e multa.\nParágrafo único. Incorre na mesma pena quem se utiliza de cargo ou função pública ou invoca a condição de agente público para se eximir de obrigação legal ou para obter vantagem ou privilégio indevido.\nArt. 34. (VETADO).\nArt. 35. (VETADO)."
+    },
+    {
+      "id": "l16869-art-36",
+      "numero": "36",
+      "slug": "l16869-art-36",
+      "search_text": "artigo 36 decretar em processo judicial a indisponibilidade de ativos financeiros em quantia que extrapole exacerbadamente o valor estimado para a satisfacao da divida da parte e ante a demonstracao pela parte da excessividade da medida deixar de corrigi la pena detencao de 1 um a 4 quatro anos e multa",
+      "vigente": true,
+      "path": {
+        "livro": null,
+        "titulo": null,
+        "subtitulo": null,
+        "capitulo": "CAPÍTULO VI DOS CRIMES E DAS PENAS",
+        "secao": null,
+        "subsecao": null
+      },
+      "contexto": "CAPÍTULO VI DOS CRIMES E DAS PENAS",
+      "plate_content": [
+        {
+          "type": "p",
+          "children": [
+            {
+              "text": "Art. 36.",
+              "bold": true
+            },
+            {
+              "text": " Decretar, em processo judicial, a indisponibilidade de ativos financeiros em quantia que extrapole exacerbadamente o valor estimado para a satisfação da dívida da parte e, ante a demonstração, pela parte, da excessividade da medida, deixar de corrigi-la:"
+            }
+          ],
+          "id": "9462b8f1-141a-454a-85d3-2cc120350766",
+          "slug": "l16869-art-36",
+          "search_text": "artigo 36 decretar em processo judicial a indisponibilidade de ativos financeiros em quantia que extrapole exacerbadamente o valor estimado para a satisfacao da divida da parte e ante a demonstracao pela parte da excessividade da medida deixar de corrigi la"
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "text": "Pena - detenção, de 1 (um) a 4 (quatro) anos, e multa."
+            }
+          ],
+          "id": "0b4ffa57-eee0-4dd5-b008-b51fe822e560",
+          "slug": null,
+          "search_text": "pena detencao de 1 um a 4 quatro anos e multa"
+        }
+      ],
+      "texto_plano": "CAPÍTULO VI DOS CRIMES E DAS PENAS | Art. 36. Decretar, em processo judicial, a indisponibilidade de ativos financeiros em quantia que extrapole exacerbadamente o valor estimado para a satisfação da dívida da parte e, ante a demonstração, pela parte, da excessividade da medida, deixar de corrigi-la:\nPena - detenção, de 1 (um) a 4 (quatro) anos, e multa."
+    },
+    {
+      "id": "l16869-art-37",
+      "numero": "37",
+      "slug": "l16869-art-37",
+      "search_text": "artigo 37 demorar demasiada e injustificadamente numero exame de processo de que tenha requerido vista em orgao colegiado com o intuito de procrastinar seu andamento ou retardar o julgamento pena detencao de 6 seis meses a 2 dois anos e multa",
+      "vigente": true,
+      "path": {
+        "livro": null,
+        "titulo": null,
+        "subtitulo": null,
+        "capitulo": "CAPÍTULO VI DOS CRIMES E DAS PENAS",
+        "secao": null,
+        "subsecao": null
+      },
+      "contexto": "CAPÍTULO VI DOS CRIMES E DAS PENAS",
+      "plate_content": [
+        {
+          "type": "p",
+          "children": [
+            {
+              "text": "Art. 37.",
+              "bold": true
+            },
+            {
+              "text": " Demorar demasiada e injustificadamente no exame de processo de que tenha requerido vista em órgão colegiado, com o intuito de procrastinar seu andamento ou retardar o julgamento:"
+            }
+          ],
+          "id": "cb0c0af8-b3a0-4cb5-b23f-2ab606b35b83",
+          "slug": "l16869-art-37",
+          "search_text": "artigo 37 demorar demasiada e injustificadamente numero exame de processo de que tenha requerido vista em orgao colegiado com o intuito de procrastinar seu andamento ou retardar o julgamento"
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "text": "Pena - detenção, de 6 (seis) meses a 2 (dois) anos, e multa."
+            }
+          ],
+          "id": "cced0e54-1e0d-4024-9476-3b6a0863d486",
+          "slug": null,
+          "search_text": "pena detencao de 6 seis meses a 2 dois anos e multa"
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "text": "Art. 38. (VETADO)."
+            }
+          ],
+          "id": "41a0d0b7-f226-4406-a37c-0d150756cda3",
+          "slug": null,
+          "search_text": null
+        }
+      ],
+      "texto_plano": "CAPÍTULO VI DOS CRIMES E DAS PENAS | Art. 37. Demorar demasiada e injustificadamente no exame de processo de que tenha requerido vista em órgão colegiado, com o intuito de procrastinar seu andamento ou retardar o julgamento:\nPena - detenção, de 6 (seis) meses a 2 (dois) anos, e multa.\nArt. 38. (VETADO)."
+    },
+    {
+      "id": "l16869-art-38",
+      "numero": "38",
+      "slug": "l16869-art-38",
+      "search_text": "artigo 38 antecipar o responsavel pelas investigacoes por meio de comunicacao inclusive rede social atribuicao de culpa antes de concluidas as apuracoes e formalizada a acusacao promulgacao partes vetadas pena detencao de 6 seis meses a 2 dois anos e multa",
+      "vigente": true,
+      "path": {
+        "livro": null,
+        "titulo": null,
+        "subtitulo": null,
+        "capitulo": "CAPÍTULO VI DOS CRIMES E DAS PENAS",
+        "secao": null,
+        "subsecao": null
+      },
+      "contexto": "CAPÍTULO VI DOS CRIMES E DAS PENAS",
+      "plate_content": [
+        {
+          "type": "p",
+          "children": [
+            {
+              "text": "Art. 38.",
+              "bold": true
+            },
+            {
+              "text": " Antecipar o responsável pelas investigações, por meio de comunicação, inclusive rede social, atribuição de culpa, antes de concluídas as apurações e formalizada a acusação: (Promulgação partes vetadas)"
+            }
+          ],
+          "id": "22f88386-4c14-47bc-8532-1541108490d4",
+          "slug": "l16869-art-38",
+          "search_text": "artigo 38 antecipar o responsavel pelas investigacoes por meio de comunicacao inclusive rede social atribuicao de culpa antes de concluidas as apuracoes e formalizada a acusacao promulgacao partes vetadas"
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "text": "Pena - detenção, de 6 (seis) meses a 2 (dois) anos, e multa."
+            }
+          ],
+          "id": "a50ec308-a4bf-4020-9a8d-b54d978a5459",
+          "slug": null,
+          "search_text": "pena detencao de 6 seis meses a 2 dois anos e multa"
+        }
+      ],
+      "texto_plano": "CAPÍTULO VI DOS CRIMES E DAS PENAS | Art. 38. Antecipar o responsável pelas investigações, por meio de comunicação, inclusive rede social, atribuição de culpa, antes de concluídas as apurações e formalizada a acusação: (Promulgação partes vetadas)\nPena - detenção, de 6 (seis) meses a 2 (dois) anos, e multa."
+    },
+    {
+      "id": "l16869-art-39",
+      "numero": "39",
+      "slug": "l16869-art-39",
+      "search_text": "artigo 39 aplicam se ao processo e ao julgamento dos delitos previstos nesta lei numero que couber as disposicoes do decreto lei numero 3 689 de 3 de outubro de 1941 codigo de processo penal e da lei numero 9 099 de 26 de setembro de 1995",
+      "vigente": true,
+      "path": {
+        "livro": null,
+        "titulo": null,
+        "subtitulo": null,
+        "capitulo": "CAPÍTULO VII DO PROCEDIMENTO",
+        "secao": null,
+        "subsecao": null
+      },
+      "contexto": "CAPÍTULO VII DO PROCEDIMENTO",
+      "plate_content": [
+        {
+          "type": "p",
+          "children": [
+            {
+              "text": "Art. 39.",
+              "bold": true
+            },
+            {
+              "text": " Aplicam-se ao processo e ao julgamento dos delitos previstos nesta Lei, no que couber, as disposições do Decreto-Lei nº 3.689, de 3 de outubro de 1941 (Código de Processo Penal), e da Lei nº 9.099, de 26 de setembro de 1995."
+            }
+          ],
+          "id": "4612586a-0cb6-402a-9d73-16c2629c4a6a",
+          "slug": "l16869-art-39",
+          "search_text": "artigo 39 aplicam se ao processo e ao julgamento dos delitos previstos nesta lei numero que couber as disposicoes do decreto lei numero 3 689 de 3 de outubro de 1941 codigo de processo penal e da lei numero 9 099 de 26 de setembro de 1995"
+        }
+      ],
+      "texto_plano": "CAPÍTULO VII DO PROCEDIMENTO | Art. 39. Aplicam-se ao processo e ao julgamento dos delitos previstos nesta Lei, no que couber, as disposições do Decreto-Lei nº 3.689, de 3 de outubro de 1941 (Código de Processo Penal), e da Lei nº 9.099, de 26 de setembro de 1995."
+    },
+    {
+      "id": "l16869-art-40",
+      "numero": "40",
+      "slug": "l16869-art-40",
+      "search_text": "artigo 40 o artigo 2º da lei numero 7 960 de 21 de dezembro de 1989 passa a vigorar com a seguinte redacao",
+      "vigente": true,
+      "path": {
+        "livro": null,
+        "titulo": null,
+        "subtitulo": null,
+        "capitulo": "CAPÍTULO VIII DISPOSIÇÕES FINAIS",
+        "secao": null,
+        "subsecao": null
+      },
+      "contexto": "CAPÍTULO VIII DISPOSIÇÕES FINAIS",
+      "plate_content": [
+        {
+          "type": "p",
+          "children": [
+            {
+              "text": "Art. 40.",
+              "bold": true
+            },
+            {
+              "text": " O art. 2º da Lei nº 7.960, de 21 de dezembro de 1989, passa a vigorar com a seguinte redação:"
+            }
+          ],
+          "id": "9d2cfaed-286a-49ed-80b7-6205147279e2",
+          "slug": "l16869-art-40",
+          "search_text": "artigo 40 o artigo 2º da lei numero 7 960 de 21 de dezembro de 1989 passa a vigorar com a seguinte redacao"
+        }
+      ],
+      "texto_plano": "CAPÍTULO VIII DISPOSIÇÕES FINAIS | Art. 40. O art. 2º da Lei nº 7.960, de 21 de dezembro de 1989, passa a vigorar com a seguinte redação:"
+    },
+    {
+      "id": "l16869-art-41",
+      "numero": "41",
+      "slug": "l16869-art-41",
+      "search_text": "artigo 41 o artigo 10 da lei numero 9 296 de 24 de julho de 1996 passa a vigorar com a seguinte redacao",
+      "vigente": true,
+      "path": {
+        "livro": null,
+        "titulo": null,
+        "subtitulo": null,
+        "capitulo": "CAPÍTULO VIII DISPOSIÇÕES FINAIS",
+        "secao": null,
+        "subsecao": null
+      },
+      "contexto": "CAPÍTULO VIII DISPOSIÇÕES FINAIS",
+      "plate_content": [
+        {
+          "type": "p",
+          "children": [
+            {
+              "text": "Art. 41.",
+              "bold": true
+            },
+            {
+              "text": " O art. 10 da Lei nº 9.296, de 24 de julho de 1996, passa a vigorar com a seguinte redação:"
+            }
+          ],
+          "id": "f475593e-df39-4108-bee7-28f05d0b173c",
+          "slug": "l16869-art-41",
+          "search_text": "artigo 41 o artigo 10 da lei numero 9 296 de 24 de julho de 1996 passa a vigorar com a seguinte redacao"
+        }
+      ],
+      "texto_plano": "CAPÍTULO VIII DISPOSIÇÕES FINAIS | Art. 41. O art. 10 da Lei nº 9.296, de 24 de julho de 1996, passa a vigorar com a seguinte redação:"
+    },
+    {
+      "id": "l16869-art-42",
+      "numero": "42",
+      "slug": "l16869-art-42",
+      "search_text": "artigo 42 a lei numero 8 069 de 13 de julho de 1990 estatuto da crianca e do adolescente passa a vigorar acrescida do seguinte artigo 227 a",
+      "vigente": true,
+      "path": {
+        "livro": null,
+        "titulo": null,
+        "subtitulo": null,
+        "capitulo": "CAPÍTULO VIII DISPOSIÇÕES FINAIS",
+        "secao": null,
+        "subsecao": null
+      },
+      "contexto": "CAPÍTULO VIII DISPOSIÇÕES FINAIS",
+      "plate_content": [
+        {
+          "type": "p",
+          "children": [
+            {
+              "text": "Art. 42.",
+              "bold": true
+            },
+            {
+              "text": " A Lei nº 8.069, de 13 de julho de 1990 (Estatuto da Criança e do Adolescente), passa a vigorar acrescida do seguinte art. 227-A:"
+            }
+          ],
+          "id": "51ebd99b-b4f5-4dce-98ae-9e449e06bc31",
+          "slug": "l16869-art-42",
+          "search_text": "artigo 42 a lei numero 8 069 de 13 de julho de 1990 estatuto da crianca e do adolescente passa a vigorar acrescida do seguinte artigo 227 a"
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "text": "Art. 43. (VETADO)."
+            }
+          ],
+          "id": "54afc768-22a2-424d-8bdb-b6b553c1cb8c",
+          "slug": null,
+          "search_text": null
+        }
+      ],
+      "texto_plano": "CAPÍTULO VIII DISPOSIÇÕES FINAIS | Art. 42. A Lei nº 8.069, de 13 de julho de 1990 (Estatuto da Criança e do Adolescente), passa a vigorar acrescida do seguinte art. 227-A:\nArt. 43. (VETADO)."
+    },
+    {
+      "id": "l16869-art-43",
+      "numero": "43",
+      "slug": "l16869-art-43",
+      "search_text": "artigo 43 a lei numero 8 906 de 4 de julho de 1994 passa a vigorar acrescida do seguinte artigo 7º b promulgacao partes vetadas",
+      "vigente": true,
+      "path": {
+        "livro": null,
+        "titulo": null,
+        "subtitulo": null,
+        "capitulo": "CAPÍTULO VIII DISPOSIÇÕES FINAIS",
+        "secao": null,
+        "subsecao": null
+      },
+      "contexto": "CAPÍTULO VIII DISPOSIÇÕES FINAIS",
+      "plate_content": [
+        {
+          "type": "p",
+          "children": [
+            {
+              "text": "Art. 43.",
+              "bold": true
+            },
+            {
+              "text": " A Lei nº 8.906, de 4 de julho de 1994, passa a vigorar acrescida do seguinte art. 7º-B: (Promulgação partes vetadas)"
+            }
+          ],
+          "id": "28663e87-0b4d-41c1-af82-da4c278773b2",
+          "slug": "l16869-art-43",
+          "search_text": "artigo 43 a lei numero 8 906 de 4 de julho de 1994 passa a vigorar acrescida do seguinte artigo 7º b promulgacao partes vetadas"
+        }
+      ],
+      "texto_plano": "CAPÍTULO VIII DISPOSIÇÕES FINAIS | Art. 43. A Lei nº 8.906, de 4 de julho de 1994, passa a vigorar acrescida do seguinte art. 7º-B: (Promulgação partes vetadas)"
+    },
+    {
+      "id": "l16869-art-44",
+      "numero": "44",
+      "slug": "l16869-art-44",
+      "search_text": "artigo 44 revogam se a lei numero 4 898 de 9 de dezembro de 1965 e o 2º do artigo 150 e o artigo 350 ambos do decreto lei numero 2 848 de 7 de dezembro de 1940 codigo penal",
+      "vigente": true,
+      "path": {
+        "livro": null,
+        "titulo": null,
+        "subtitulo": null,
+        "capitulo": "CAPÍTULO VIII DISPOSIÇÕES FINAIS",
+        "secao": null,
+        "subsecao": null
+      },
+      "contexto": "CAPÍTULO VIII DISPOSIÇÕES FINAIS",
+      "plate_content": [
+        {
+          "type": "p",
+          "children": [
+            {
+              "text": "Art. 44.",
+              "bold": true
+            },
+            {
+              "text": " Revogam-se a Lei nº 4.898, de 9 de dezembro de 1965, e o § 2º do art. 150 e o art. 350, ambos do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal)."
+            }
+          ],
+          "id": "eaffa7b9-1838-4d0d-b64e-ac119a16f901",
+          "slug": "l16869-art-44",
+          "search_text": "artigo 44 revogam se a lei numero 4 898 de 9 de dezembro de 1965 e o 2º do artigo 150 e o artigo 350 ambos do decreto lei numero 2 848 de 7 de dezembro de 1940 codigo penal"
+        }
+      ],
+      "texto_plano": "CAPÍTULO VIII DISPOSIÇÕES FINAIS | Art. 44. Revogam-se a Lei nº 4.898, de 9 de dezembro de 1965, e o § 2º do art. 150 e o art. 350, ambos do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal)."
+    },
+    {
+      "id": "l16869-art-45",
+      "numero": "45",
+      "slug": "l16869-art-45",
+      "search_text": "artigo 45 esta lei entra em vigor apos decorridos 120 cento e vinte dias de sua publicacao oficial brasilia 5 de setembro de 2019 198º da independencia e 131º da republica jair messias bolsonaro sergio moro wagner de campos rosario jorge antonio de oliveira francisco andre luiz de almeida mendonca este texto nao substitui o publicado numero dou de 5 9 2019 edicao extra a e retificado em 18 9 2019 presidencia da republica secretaria geral subchefia para assuntos juridicos lei numero 13 869 de 5 de setembro de 2019 dispoe sobre os crimes de abuso de autoridade altera a lei numero 7 960 de 21 de dezembro de 1989 a lei numero 9 296 de 24 de julho de 1996 a lei numero 8 069 de 13 de julho de 1990 e a lei numero 8 906 de 4 de julho de 1994 e revoga a lei numero 4 898 de 9 de dezembro de 1965 e dispositivos do decreto lei numero 2 848 de 7 de dezembro de 1940 codigo penal o presidente da republica faco saber que o congresso nacional decreta e eu promulgo nos termos do paragrafo 5º do artigo 66 da constituicao federal as seguintes partes vetadas da lei numero 13 869 de 5 de setembro de 2019",
+      "vigente": true,
+      "path": {
+        "livro": null,
+        "titulo": null,
+        "subtitulo": null,
+        "capitulo": "CAPÍTULO VIII DISPOSIÇÕES FINAIS",
+        "secao": null,
+        "subsecao": null
+      },
+      "contexto": "CAPÍTULO VIII DISPOSIÇÕES FINAIS",
+      "plate_content": [
+        {
+          "type": "p",
+          "children": [
+            {
+              "text": "Art. 45.",
+              "bold": true
+            },
+            {
+              "text": " Esta Lei entra em vigor após decorridos 120 (cento e vinte) dias de sua publicação oficial."
+            }
+          ],
+          "id": "17477266-c3d2-4a39-b030-90270272313c",
+          "slug": "l16869-art-45",
+          "search_text": "artigo 45 esta lei entra em vigor apos decorridos 120 cento e vinte dias de sua publicacao oficial"
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "text": "Brasília, 5 de setembro de 2019; 198º da Independência e 131º da República."
+            }
+          ],
+          "id": "28a965d9-0f55-4459-b268-bb2c54c83a52",
+          "slug": null,
+          "search_text": "brasilia 5 de setembro de 2019 198º da independencia e 131º da republica"
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "text": "JAIR MESSIAS BOLSONARO"
+            }
+          ],
+          "id": "d463a969-b699-4e95-81ea-4fb26f28b3de",
+          "slug": null,
+          "search_text": "jair messias bolsonaro"
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "text": "Sérgio Moro"
+            }
+          ],
+          "id": "66aab2b2-4d03-4f2c-8e64-e8cea77e1f31",
+          "slug": null,
+          "search_text": "sergio moro"
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "text": "Wagner de Campos Rosário"
+            }
+          ],
+          "id": "615e9c32-c517-443f-9952-bc952d1a4600",
+          "slug": null,
+          "search_text": "wagner de campos rosario"
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "text": "Jorge Antonio de Oliveira Francisco"
+            }
+          ],
+          "id": "fa06f0d0-d807-4eb2-b15d-a218f8ceb97d",
+          "slug": null,
+          "search_text": "jorge antonio de oliveira francisco"
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "text": "André Luiz de Almeida Mendonça"
+            }
+          ],
+          "id": "d511dfcb-7d65-40a9-a7e3-580e43160ef0",
+          "slug": null,
+          "search_text": "andre luiz de almeida mendonca"
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "text": "Este texto não substitui o publicado no DOU de 5.9.2019 - Edição extra-A e retificado em 18.9.2019"
+            }
+          ],
+          "id": "a12fbabb-79ac-4046-b5f1-885fa12037c4",
+          "slug": null,
+          "search_text": "este texto nao substitui o publicado numero dou de 5 9 2019 edicao extra a e retificado em 18 9 2019"
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "text": "Presidência da República Secretaria-Geral Subchefia para Assuntos Jurídicos"
+            }
+          ],
+          "id": "66a5b4ed-c196-4e85-858e-193df0fe0df5",
+          "slug": null,
+          "search_text": "presidencia da republica secretaria geral subchefia para assuntos juridicos"
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "text": "LEI Nº 13.869, DE 5 DE SETEMBRO DE 2019"
+            }
+          ],
+          "id": "aaa824cf-1e79-41a1-a107-900e5f67b0f2",
+          "slug": null,
+          "search_text": "lei numero 13 869 de 5 de setembro de 2019"
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "text": "Dispõe sobre os crimes de abuso de autoridade; altera a Lei nº 7.960, de 21 de dezembro de 1989, a Lei nº 9.296, de 24 de julho de 1996, a Lei nº 8.069, de 13 de julho de 1990, e a Lei nº 8.906, de 4 de julho de 1994; e revoga a Lei nº 4.898, de 9 de dezembro de 1965, e dispositivos do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal)."
+            }
+          ],
+          "id": "ae24261b-f3b8-41f8-922e-f7381ffd57cf",
+          "slug": null,
+          "search_text": "dispoe sobre os crimes de abuso de autoridade altera a lei numero 7 960 de 21 de dezembro de 1989 a lei numero 9 296 de 24 de julho de 1996 a lei numero 8 069 de 13 de julho de 1990 e a lei numero 8 906 de 4 de julho de 1994 e revoga a lei numero 4 898 de 9 de dezembro de 1965 e dispositivos do decreto lei numero 2 848 de 7 de dezembro de 1940 codigo penal"
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "text": "O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu promulgo, nos termos do parágrafo 5º do art. 66 da Constituição Federal, as seguintes partes vetadas da Lei nº 13.869, de 5 de setembro de 2019:"
+            }
+          ],
+          "id": "35a81546-8805-441f-a33d-6fb941e46d9a",
+          "slug": null,
+          "search_text": "o presidente da republica faco saber que o congresso nacional decreta e eu promulgo nos termos do paragrafo 5º do artigo 66 da constituicao federal as seguintes partes vetadas da lei numero 13 869 de 5 de setembro de 2019"
+        }
+      ],
+      "texto_plano": "CAPÍTULO VIII DISPOSIÇÕES FINAIS | Art. 45. Esta Lei entra em vigor após decorridos 120 (cento e vinte) dias de sua publicação oficial.\nBrasília, 5 de setembro de 2019; 198º da Independência e 131º da República.\nJAIR MESSIAS BOLSONARO\nSérgio Moro\nWagner de Campos Rosário\nJorge Antonio de Oliveira Francisco\nAndré Luiz de Almeida Mendonça\nEste texto não substitui o publicado no DOU de 5.9.2019 - Edição extra-A e retificado em 18.9.2019\nPresidência da República Secretaria-Geral Subchefia para Assuntos Jurídicos\nLEI Nº 13.869, DE 5 DE SETEMBRO DE 2019\nDispõe sobre os crimes de abuso de autoridade; altera a Lei nº 7.960, de 21 de dezembro de 1989, a Lei nº 9.296, de 24 de julho de 1996, a Lei nº 8.069, de 13 de julho de 1990, e a Lei nº 8.906, de 4 de julho de 1994; e revoga a Lei nº 4.898, de 9 de dezembro de 1965, e dispositivos do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal).\nO PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu promulgo, nos termos do parágrafo 5º do art. 66 da Constituição Federal, as seguintes partes vetadas da Lei nº 13.869, de 5 de setembro de 2019:"
+    },
+    {
+      "id": "l16869-art-3",
+      "numero": "3",
+      "slug": "l16869-art-3",
+      "search_text": "artigo 3º os crimes previstos nesta lei sao de acao penal publica incondicionada 1º sera admitida acao privada se a acao penal publica nao for intentada numero prazo legal cabendo ao ministerio publico aditar a queixa repudia la e oferecer denuncia substitutiva intervir em todos os termos do processo fornecer elementos de prova interpor recurso e a todo tempo numero caso de negligencia do querelante retomar a acao como parte principal 2º a acao privada subsidiaria sera exercida numero prazo de 6 seis meses contado da data em que se esgotar o prazo para oferecimento da denuncia artigo 9º decretar medida de privacao da liberdade em manifesta desconformidade com as hipoteses legais pena detencao de 1 um a 4 quatro anos e multa paragrafo unico incorre na mesma pena a autoridade judiciaria que dentro de prazo razoavel deixar de i relaxar a prisao manifestamente ilegal ii substituir a prisao preventiva por medida cautelar diversa ou de conceder liberdade provisoria quando manifestamente cabivel iii deferir liminar ou ordem de habeas corpus quando manifestamente cabivel artigo 13 constranger o preso ou o detento mediante violencia grave ameaca ou reducao de sua capacidade de resistencia a  iii produzir prova contra si mesmo ou contra terceiro  artigo 15 constranger a depor sob ameaca de prisao pessoa que em razao de funcao ministerio oficio ou profissao deva guardar segredo ou resguardar sigilo  paragrafo unico incorre na mesma pena quem prossegue com o interrogatorio i de pessoa que tenha decidido exercer o direito ao silencio ou ii de pessoa que tenha optado por ser assistida por advogado ou defensor publico sem a presenca de seu patrono artigo 16 deixar de identificar se ou identificar se falsamente ao preso por ocasiao de sua captura ou quando deva faze lo durante sua detencao ou prisao pena detencao de 6 seis meses a 2 dois anos e multa paragrafo unico incorre na mesma pena quem como responsavel por interrogatorio em sede de procedimento investigatorio de infracao penal deixa de identificar se ao preso ou atribui a si mesmo falsa identidade cargo ou funcao artigo 20 impedir sem justa causa a entrevista pessoal e reservada do preso com seu advogado pena detencao de 6 seis meses a 2 dois anos e multa paragrafo unico incorre na mesma pena quem impede o preso o reu solto ou o investigado de entrevistar se pessoal e reservadamente com seu advogado ou defensor por prazo razoavel antes de audiencia judicial e de sentar se ao seu lado e com ele comunicar se durante a audiencia salvo numero curso de interrogatorio ou numero caso de audiencia realizada por videoconferencia artigo 30 dar inicio ou proceder a persecucao penal civil ou administrativa sem justa causa fundamentada ou contra quem sabe inocente pena detencao de 1 um a 4 quatro anos e multa artigo 32 negar ao interessado seu defensor ou advogado acesso aos autos de investigacao preliminar ao termo circunstanciado ao inquerito ou a qualquer outro procedimento investigatorio de infracao penal civil ou administrativa assim como impedir a obtencao de copias ressalvado o acesso a pecas relativas a diligencias em curso ou que indiquem a realizacao de diligencias futuras cujo sigilo seja imprescindivel pena detencao de 6 seis meses a 2 dois anos e multa artigo 38 antecipar o responsavel pelas investigacoes por meio de comunicacao inclusive rede social atribuicao de culpa antes de concluidas as apuracoes e formalizada a acusacao pena detencao de 6 seis meses a 2 dois anos e multa ",
+      "vigente": true,
+      "path": {
+        "livro": null,
+        "titulo": null,
+        "subtitulo": null,
+        "capitulo": "CAPÍTULO VIII DISPOSIÇÕES FINAIS",
+        "secao": null,
+        "subsecao": null
+      },
+      "contexto": "CAPÍTULO VIII DISPOSIÇÕES FINAIS",
+      "plate_content": [
+        {
+          "type": "p",
+          "children": [
+            {
+              "text": "Art. 3º",
+              "bold": true
+            },
+            {
+              "text": " Os crimes previstos nesta Lei são de ação penal pública incondicionada."
+            }
+          ],
+          "id": "9190ab4b-0829-4022-a6fd-a27aebe7e0c6",
+          "slug": "l16869-art-3",
+          "search_text": "artigo 3º os crimes previstos nesta lei sao de acao penal publica incondicionada"
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "text": "§ 1º",
+              "bold": true
+            },
+            {
+              "text": " Será admitida ação privada se a ação penal pública não for intentada no prazo legal, cabendo ao Ministério Público aditar a queixa, repudiá-la e oferecer denúncia substitutiva, intervir em todos os termos do processo, fornecer elementos de prova, interpor recurso e, a todo tempo, no caso de negligência do querelante, retomar a ação como parte principal."
+            }
+          ],
+          "id": "0ffd846e-ad5c-4134-b9f1-ced77e8fb3ce",
+          "slug": "l16869-art-3-par-1",
+          "search_text": "1º sera admitida acao privada se a acao penal publica nao for intentada numero prazo legal cabendo ao ministerio publico aditar a queixa repudia la e oferecer denuncia substitutiva intervir em todos os termos do processo fornecer elementos de prova interpor recurso e a todo tempo numero caso de negligencia do querelante retomar a acao como parte principal",
+          "indent": 1
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "text": "§ 2º",
+              "bold": true
+            },
+            {
+              "text": " A ação privada subsidiária será exercida no prazo de 6 (seis) meses, contado da data em que se esgotar o prazo para oferecimento da denúncia.”"
+            }
+          ],
+          "id": "99dad293-9318-4535-8366-1397f3ec8a0d",
+          "slug": "l16869-art-3-par-2",
+          "search_text": "2º a acao privada subsidiaria sera exercida numero prazo de 6 seis meses contado da data em que se esgotar o prazo para oferecimento da denuncia",
+          "indent": 1
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "text": "‘Art. 9º Decretar medida de privação da liberdade em manifesta desconformidade com as hipóteses legais:"
+            }
+          ],
+          "id": "341a6b4d-8ffd-4e14-bdeb-fb0c878d38bf",
+          "slug": null,
+          "search_text": "artigo 9º decretar medida de privacao da liberdade em manifesta desconformidade com as hipoteses legais",
+          "indent": 1
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "text": "Pena - detenção, de 1 (um) a 4 (quatro) anos, e multa."
+            }
+          ],
+          "id": "eb7257c8-3fff-44b2-9b03-90be98a5afc9",
+          "slug": null,
+          "search_text": "pena detencao de 1 um a 4 quatro anos e multa",
+          "indent": 1
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "text": "Parágrafo único.",
+              "bold": true
+            },
+            {
+              "text": " Incorre na mesma pena a autoridade judiciária que, dentro de prazo razoável, deixar de:"
+            }
+          ],
+          "id": "e426f9a5-2091-4d5e-a87d-21a7f94d2be6",
+          "slug": "l16869-art-3-par-unico",
+          "search_text": "paragrafo unico incorre na mesma pena a autoridade judiciaria que dentro de prazo razoavel deixar de",
+          "indent": 1
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "text": "I - relaxar a prisão manifestamente ilegal;"
+            }
+          ],
+          "id": "99913b35-edee-4049-849a-792d64f78d55",
+          "slug": "l16869-art-3-par-unico-inc-i",
+          "search_text": "i relaxar a prisao manifestamente ilegal",
+          "indent": 2
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "text": "II - substituir a prisão preventiva por medida cautelar diversa ou de conceder liberdade provisória, quando manifestamente cabível;"
+            }
+          ],
+          "id": "8ac8e316-af6e-484a-9e6c-a42f45a8314b",
+          "slug": "l16869-art-3-par-unico-inc-ii",
+          "search_text": "ii substituir a prisao preventiva por medida cautelar diversa ou de conceder liberdade provisoria quando manifestamente cabivel",
+          "indent": 2
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "text": "III - deferir liminar ou ordem de habeas corpus, quando manifestamente cabível.’"
+            }
+          ],
+          "id": "b4528f90-c9c3-4c3e-ac06-1b56e2deacd3",
+          "slug": "l16869-art-3-par-unico-inc-iii",
+          "search_text": "iii deferir liminar ou ordem de habeas corpus quando manifestamente cabivel",
+          "indent": 2
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "text": "‘Art. 13. Constranger o preso ou o detento, mediante violência, grave ameaça ou redução de sua capacidade de resistência, a:"
+            }
+          ],
+          "id": "3bce423b-6ab8-4281-abeb-5e97d8f68665",
+          "slug": null,
+          "search_text": "artigo 13 constranger o preso ou o detento mediante violencia grave ameaca ou reducao de sua capacidade de resistencia a",
+          "indent": 2
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "text": "........................................................................................................................."
+            }
+          ],
+          "id": "aaa4c1d3-02d9-42a7-b89f-cb69763273f5",
+          "slug": null,
+          "search_text": "",
+          "indent": 2
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "text": "III - produzir prova contra si mesmo ou contra terceiro:"
+            }
+          ],
+          "id": "b30ff2f3-2615-4812-9514-f136a87854bc",
+          "slug": "l16869-art-3-par-unico-inc-iii",
+          "search_text": "iii produzir prova contra si mesmo ou contra terceiro",
+          "indent": 2
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "text": "........................................................................................................................’"
+            }
+          ],
+          "id": "92763974-3af7-4fbb-a428-1cb29663958d",
+          "slug": null,
+          "search_text": "",
+          "indent": 2
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "text": "‘Art. 15. Constranger a depor, sob ameaça de prisão, pessoa que, em razão de função, ministério, ofício ou profissão, deva guardar segredo ou resguardar sigilo:"
+            }
+          ],
+          "id": "91d475d5-df7a-4f67-93be-a7c7b7c2b2fd",
+          "slug": null,
+          "search_text": "artigo 15 constranger a depor sob ameaca de prisao pessoa que em razao de funcao ministerio oficio ou profissao deva guardar segredo ou resguardar sigilo",
+          "indent": 2
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "text": "........................................................................................................................."
+            }
+          ],
+          "id": "2eb56ea0-6c9f-4d27-a1d9-18bdf2e77ff8",
+          "slug": null,
+          "search_text": "",
+          "indent": 2
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "text": "Parágrafo único.",
+              "bold": true
+            },
+            {
+              "text": " Incorre na mesma pena quem prossegue com o interrogatório:"
+            }
+          ],
+          "id": "f62f6a22-9246-42fc-b7b5-a76d30df6ace",
+          "slug": "l16869-art-3-par-unico",
+          "search_text": "paragrafo unico incorre na mesma pena quem prossegue com o interrogatorio",
+          "indent": 1
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "text": "I - de pessoa que tenha decidido exercer o direito ao silêncio; ou"
+            }
+          ],
+          "id": "064e9338-978a-40e6-912d-e12a6e02a213",
+          "slug": "l16869-art-3-par-unico-inc-i",
+          "search_text": "i de pessoa que tenha decidido exercer o direito ao silencio ou",
+          "indent": 2
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "text": "II - de pessoa que tenha optado por ser assistida por advogado ou defensor público, sem a presença de seu patrono.’"
+            }
+          ],
+          "id": "b6c05561-7a30-40f9-bb3e-e0ed37bdac25",
+          "slug": "l16869-art-3-par-unico-inc-ii",
+          "search_text": "ii de pessoa que tenha optado por ser assistida por advogado ou defensor publico sem a presenca de seu patrono",
+          "indent": 2
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "text": "‘Art. 16. Deixar de identificar-se ou identificar-se falsamente ao preso por ocasião de sua captura ou quando deva fazê-lo durante sua detenção ou prisão:"
+            }
+          ],
+          "id": "b6eca0a7-bf3b-4a15-b444-c79e24a20f05",
+          "slug": null,
+          "search_text": "artigo 16 deixar de identificar se ou identificar se falsamente ao preso por ocasiao de sua captura ou quando deva faze lo durante sua detencao ou prisao",
+          "indent": 2
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "text": "Pena - detenção, de 6 (seis) meses a 2 (dois) anos, e multa."
+            }
+          ],
+          "id": "0e0f8d89-1368-433b-ab69-a8a3d37bac7a",
+          "slug": null,
+          "search_text": "pena detencao de 6 seis meses a 2 dois anos e multa",
+          "indent": 2
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "text": "Parágrafo único.",
+              "bold": true
+            },
+            {
+              "text": " Incorre na mesma pena quem, como responsável por interrogatório em sede de procedimento investigatório de infração penal, deixa de identificar-se ao preso ou atribui a si mesmo falsa identidade, cargo ou função.’"
+            }
+          ],
+          "id": "49ce94b1-98ec-4727-ac52-da3191d22ee7",
+          "slug": "l16869-art-3-par-unico",
+          "search_text": "paragrafo unico incorre na mesma pena quem como responsavel por interrogatorio em sede de procedimento investigatorio de infracao penal deixa de identificar se ao preso ou atribui a si mesmo falsa identidade cargo ou funcao",
+          "indent": 1
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "text": "‘Art. 20. Impedir, sem justa causa, a entrevista pessoal e reservada do preso com seu advogado:"
+            }
+          ],
+          "id": "71e8c1be-cb24-4f62-8b89-1895ac0b9b52",
+          "slug": null,
+          "search_text": "artigo 20 impedir sem justa causa a entrevista pessoal e reservada do preso com seu advogado",
+          "indent": 1
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "text": "Pena - detenção, de 6 (seis) meses a 2 (dois) anos, e multa."
+            }
+          ],
+          "id": "919bc8e8-e3e9-4e8c-892a-195c45190418",
+          "slug": null,
+          "search_text": "pena detencao de 6 seis meses a 2 dois anos e multa",
+          "indent": 1
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "text": "Parágrafo único.",
+              "bold": true
+            },
+            {
+              "text": " Incorre na mesma pena quem impede o preso, o réu solto ou o investigado de entrevistar-se pessoal e reservadamente com seu advogado ou defensor, por prazo razoável, antes de audiência judicial, e de sentar-se ao seu lado e com ele comunicar-se durante a audiência, salvo no curso de interrogatório ou no caso de audiência realizada por videoconferência.’"
+            }
+          ],
+          "id": "feca43cd-4c74-4030-88a7-e8f6a5741454",
+          "slug": "l16869-art-3-par-unico",
+          "search_text": "paragrafo unico incorre na mesma pena quem impede o preso o reu solto ou o investigado de entrevistar se pessoal e reservadamente com seu advogado ou defensor por prazo razoavel antes de audiencia judicial e de sentar se ao seu lado e com ele comunicar se durante a audiencia salvo numero curso de interrogatorio ou numero caso de audiencia realizada por videoconferencia",
+          "indent": 1
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "text": "‘Art. 30. Dar início ou proceder à persecução penal, civil ou administrativa sem justa causa fundamentada ou contra quem sabe inocente:"
+            }
+          ],
+          "id": "54e1783c-cd40-4612-976b-5f3460920887",
+          "slug": null,
+          "search_text": "artigo 30 dar inicio ou proceder a persecucao penal civil ou administrativa sem justa causa fundamentada ou contra quem sabe inocente",
+          "indent": 1
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "text": "Pena - detenção, de 1 (um) a 4 (quatro) anos, e multa.’"
+            }
+          ],
+          "id": "617ef8a1-03e4-4754-b820-d906f98d05f7",
+          "slug": null,
+          "search_text": "pena detencao de 1 um a 4 quatro anos e multa",
+          "indent": 1
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "text": "‘Art. 32. Negar ao interessado, seu defensor ou advogado acesso aos autos de investigação preliminar, ao termo circunstanciado, ao inquérito ou a qualquer outro procedimento investigatório de infração penal, civil ou administrativa, assim como impedir a obtenção de cópias, ressalvado o acesso a peças relativas a diligências em curso, ou que indiquem a realização de diligências futuras, cujo sigilo seja imprescindível:"
+            }
+          ],
+          "id": "c9ec2db2-bb31-471c-982d-995b209b0703",
+          "slug": null,
+          "search_text": "artigo 32 negar ao interessado seu defensor ou advogado acesso aos autos de investigacao preliminar ao termo circunstanciado ao inquerito ou a qualquer outro procedimento investigatorio de infracao penal civil ou administrativa assim como impedir a obtencao de copias ressalvado o acesso a pecas relativas a diligencias em curso ou que indiquem a realizacao de diligencias futuras cujo sigilo seja imprescindivel",
+          "indent": 1
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "text": "Pena - detenção, de 6 (seis) meses a 2 (dois) anos, e multa.’"
+            }
+          ],
+          "id": "5d08f88f-4386-4da4-8998-ae4417567352",
+          "slug": null,
+          "search_text": "pena detencao de 6 seis meses a 2 dois anos e multa",
+          "indent": 1
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "text": "‘Art. 38. Antecipar o responsável pelas investigações, por meio de comunicação, inclusive rede social, atribuição de culpa, antes de concluídas as apurações e formalizada a acusação:"
+            }
+          ],
+          "id": "4790adc9-8c4e-4d89-b51e-319ec45e0417",
+          "slug": null,
+          "search_text": "artigo 38 antecipar o responsavel pelas investigacoes por meio de comunicacao inclusive rede social atribuicao de culpa antes de concluidas as apuracoes e formalizada a acusacao",
+          "indent": 1
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "text": "Pena - detenção, de 6 (seis) meses a 2 (dois) anos, e multa.’”"
+            }
+          ],
+          "id": "51fa5c85-b3c3-411f-91ef-0da2cf3aff0f",
+          "slug": null,
+          "search_text": "pena detencao de 6 seis meses a 2 dois anos e multa",
+          "indent": 1
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "text": "......................................................................................................................."
+            }
+          ],
+          "id": "8696b303-5295-4580-93ae-245b910dd10b",
+          "slug": null,
+          "search_text": "",
+          "indent": 1
+        }
+      ],
+      "texto_plano": "CAPÍTULO VIII DISPOSIÇÕES FINAIS | Art. 3º Os crimes previstos nesta Lei são de ação penal pública incondicionada.\n§ 1º Será admitida ação privada se a ação penal pública não for intentada no prazo legal, cabendo ao Ministério Público aditar a queixa, repudiá-la e oferecer denúncia substitutiva, intervir em todos os termos do processo, fornecer elementos de prova, interpor recurso e, a todo tempo, no caso de negligência do querelante, retomar a ação como parte principal.\n§ 2º A ação privada subsidiária será exercida no prazo de 6 (seis) meses, contado da data em que se esgotar o prazo para oferecimento da denúncia.”\n‘Art. 9º Decretar medida de privação da liberdade em manifesta desconformidade com as hipóteses legais:\nPena - detenção, de 1 (um) a 4 (quatro) anos, e multa.\nParágrafo único. Incorre na mesma pena a autoridade judiciária que, dentro de prazo razoável, deixar de:\nI - relaxar a prisão manifestamente ilegal;\nII - substituir a prisão preventiva por medida cautelar diversa ou de conceder liberdade provisória, quando manifestamente cabível;\nIII - deferir liminar ou ordem de habeas corpus, quando manifestamente cabível.’\n‘Art. 13. Constranger o preso ou o detento, mediante violência, grave ameaça ou redução de sua capacidade de resistência, a:\n.........................................................................................................................\nIII - produzir prova contra si mesmo ou contra terceiro:\n........................................................................................................................’\n‘Art. 15. Constranger a depor, sob ameaça de prisão, pessoa que, em razão de função, ministério, ofício ou profissão, deva guardar segredo ou resguardar sigilo:\n.........................................................................................................................\nParágrafo único. Incorre na mesma pena quem prossegue com o interrogatório:\nI - de pessoa que tenha decidido exercer o direito ao silêncio; ou\nII - de pessoa que tenha optado por ser assistida por advogado ou defensor público, sem a presença de seu patrono.’\n‘Art. 16. Deixar de identificar-se ou identificar-se falsamente ao preso por ocasião de sua captura ou quando deva fazê-lo durante sua detenção ou prisão:\nPena - detenção, de 6 (seis) meses a 2 (dois) anos, e multa.\nParágrafo único. Incorre na mesma pena quem, como responsável por interrogatório em sede de procedimento investigatório de infração penal, deixa de identificar-se ao preso ou atribui a si mesmo falsa identidade, cargo ou função.’\n‘Art. 20. Impedir, sem justa causa, a entrevista pessoal e reservada do preso com seu advogado:\nPena - detenção, de 6 (seis) meses a 2 (dois) anos, e multa.\nParágrafo único. Incorre na mesma pena quem impede o preso, o réu solto ou o investigado de entrevistar-se pessoal e reservadamente com seu advogado ou defensor, por prazo razoável, antes de audiência judicial, e de sentar-se ao seu lado e com ele comunicar-se durante a audiência, salvo no curso de interrogatório ou no caso de audiência realizada por videoconferência.’\n‘Art. 30. Dar início ou proceder à persecução penal, civil ou administrativa sem justa causa fundamentada ou contra quem sabe inocente:\nPena - detenção, de 1 (um) a 4 (quatro) anos, e multa.’\n‘Art. 32. Negar ao interessado, seu defensor ou advogado acesso aos autos de investigação preliminar, ao termo circunstanciado, ao inquérito ou a qualquer outro procedimento investigatório de infração penal, civil ou administrativa, assim como impedir a obtenção de cópias, ressalvado o acesso a peças relativas a diligências em curso, ou que indiquem a realização de diligências futuras, cujo sigilo seja imprescindível:\nPena - detenção, de 6 (seis) meses a 2 (dois) anos, e multa.’\n‘Art. 38. Antecipar o responsável pelas investigações, por meio de comunicação, inclusive rede social, atribuição de culpa, antes de concluídas as apurações e formalizada a acusação:\nPena - detenção, de 6 (seis) meses a 2 (dois) anos, e multa.’”\n......................................................................................................................."
+    },
+    {
+      "id": "l16869-art-43",
+      "numero": "43",
+      "slug": "l16869-art-43",
+      "search_text": "artigo 43 a lei numero 8 906 de 4 de julho de 1994 passa a vigorar acrescida do seguinte artigo 7º b brasilia 27 de setembro de 2019 198º da independencia e 131º da republica jair messias bolsonaro este texto nao substitui o publicado numero dou de 27 9 2019 edicao extra a ",
+      "vigente": true,
+      "path": {
+        "livro": null,
+        "titulo": null,
+        "subtitulo": null,
+        "capitulo": "CAPÍTULO VIII DISPOSIÇÕES FINAIS",
+        "secao": null,
+        "subsecao": null
+      },
+      "contexto": "CAPÍTULO VIII DISPOSIÇÕES FINAIS",
+      "plate_content": [
+        {
+          "type": "p",
+          "children": [
+            {
+              "text": "Art. 43.",
+              "bold": true
+            },
+            {
+              "text": " A Lei nº 8.906, de 4 de julho de 1994, passa a vigorar acrescida do seguinte art. 7º-B:"
+            }
+          ],
+          "id": "faf57522-14ac-453c-b66a-a89d44fdb411",
+          "slug": "l16869-art-43",
+          "search_text": "artigo 43 a lei numero 8 906 de 4 de julho de 1994 passa a vigorar acrescida do seguinte artigo 7º b"
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "text": "Brasília, 27 de setembro de 2019; 198º da Independência e 131º da República."
+            }
+          ],
+          "id": "28546e78-8f79-4c80-9b53-926f810444cc",
+          "slug": null,
+          "search_text": "brasilia 27 de setembro de 2019 198º da independencia e 131º da republica"
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "text": "JAIR MESSIAS BOLSONARO"
+            }
+          ],
+          "id": "29f1fdb9-16dd-4ab3-8169-2d84bbaa41d1",
+          "slug": null,
+          "search_text": "jair messias bolsonaro"
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "text": "Este texto não substitui o publicado no DOU de 27.9.2019 - Edição extra - A"
+            }
+          ],
+          "id": "eb46f59a-6896-4cad-8401-8d1052180ba5",
+          "slug": null,
+          "search_text": "este texto nao substitui o publicado numero dou de 27 9 2019 edicao extra a"
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "text": "*"
+            }
+          ],
+          "id": "16c78a1a-3ee9-416e-ae3c-d97dd550cfea",
+          "slug": null,
+          "search_text": ""
+        }
+      ],
+      "texto_plano": "CAPÍTULO VIII DISPOSIÇÕES FINAIS | Art. 43. A Lei nº 8.906, de 4 de julho de 1994, passa a vigorar acrescida do seguinte art. 7º-B:\nBrasília, 27 de setembro de 2019; 198º da Independência e 131º da República.\nJAIR MESSIAS BOLSONARO\nEste texto não substitui o publicado no DOU de 27.9.2019 - Edição extra - A\n*"
+    }
+  ]
+}
